@@ -4,7 +4,7 @@
       "question": "Refer to the figure above. Lower material costs—indeed lower costs of any kind—make production more profitable. Starting at point A, which of the following best represents this assertion?",
       "options": {
         "A": "The move from A to B",
-        "B": "The move from A to C",
+        "B": "The ,move from A to C",
         "C": "A move from A to B, and then to C",
         "D": "A move from A to C, and then to B"
       },
@@ -1982,7 +1982,7 @@
         "C": "It is not possible to tell whether the expected cost of fixing the car is less than the cost of fixing it, because the probabilities are subjective.",
         "D": "It is not possible to tell whether the expected cost of fixing the car is less than the cost of fixing it, because the probabilities are not equal."
       },
-      "correct_answer": "",
+      "correct_answer": "A",
       "pic_path": "cd6c49ad-a0da-45d7-80c7-e44d9127cc98.jpeg",
       "category": "(chapter5.2)",
       "final_status": "原始题目(需要图片)",
@@ -20068,7 +20068,7 @@
       "C": "Project B only",
       "D": "Projects A and B only"
     },
-    "correct_answer": "",
+    "correct_answer": "A",
     "pic_path": "b6edb7af-0893-4c5a-849b-ee4cbb775564.jpeg",
     "category": "(Projects Evaluation)",
     "final_status": "原始题目(需要图片)",
@@ -20252,7 +20252,7 @@
       "D": "0.4 of a bannock",
       "E": "1/4 bannock"
     },
-    "correct_answer": "",
+    "correct_answer": "B",
     "pic_path": "03b81714-c8ad-45d9-b67a-455419a157e0.jpeg",
     "category": "Microeconomics（Khan Academy）",
     "final_status": "原始题目(需要图片)",
@@ -20591,7 +20591,7 @@
       "D": "Q_C",
       "E": "Q_C - Q_A"
     },
-    "correct_answer": "",
+    "correct_answer": "C",
     "pic_path": "7202c089-6859-4684-bad9-ff9ad167049b.jpeg",
     "category": "(Market equilibrium and disequilibrium)",
     "final_status": "原始题目(需要图片)",
@@ -25200,7 +25200,11 @@
     "id": "b2801956-df00-44e6-a3e5-b577210e15fc",
     "question": "A movement from A to C represents",
     "options": {
-      "A": "A potential pareto improvementb. A pareto improvementc. A movement from an inefficient allocation to an efficient allocationd. A movement from an efficient allocation to an inefficient allocatione. A movement away from an equilibrium allocation"
+      "A": "A potential pareto improvement",
+      "B": "A pareto improvementc. ",
+      "C": "A movement from an inefficient allocation to an efficient allocationd.",
+      "D": "A movement from an efficient allocation to an inefficient allocatione. ",
+      "E": "A movement away from an equilibrium allocation"
     },
     "correct_answer": "B",
     "pic_path": "b2801956-df00-44e6-a3e5-b577210e15fc.jpeg",
