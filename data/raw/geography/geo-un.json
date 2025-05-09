@@ -1,0 +1,3691 @@
+[
+    {
+        "id": "b90a7e16-890b-4241-9b44-d9e39c262ca1",
+        "question": "United States Population, 2000. Source: US Census Bureau.\nThe map shown above is the following type of map:",
+        "options": {
+            "A": "statistical map.",
+            "B": "topographic map.",
+            "C": "general-purpose map.",
+            "D": "dot-distribution map.",
+            "E": "graduated circle map."
+        },
+        "correct_answer": "B",
+        "pic_path": "b90a7e16-890b-4241-9b44-d9e39c262ca1.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "1ba24a66-813b-41c1-a38d-cfb55bd81b0e",
+        "question": "With what religion is the architecture shown above associated?",
+        "options": {
+            "A": "Roman Catholicism",
+            "B": "Russian Orthodox",
+            "C": "Hinduism",
+            "D": "Judaism",
+            "E": "Buddhism"
+        },
+        "correct_answer": "E",
+        "pic_path": "1ba24a66-813b-41c1-a38d-cfb55bd81b0e.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f5abc82d-8e39-4850-a731-581e6e477737",
+        "question": "Which region of China has the largest number of Tibeto-Burman speakers?",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "correct_answer": "E",
+        "pic_path": "f5abc82d-8e39-4850-a731-581e6e477737.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "06bed5f6-5903-4675-8aef-978233c228fd",
+        "question": "Which religion is practiced by most inhabitants of Region A?",
+        "options": {
+            "A": "Buddhism",
+            "B": "Shintoism",
+            "C": "Catholicism",
+            "D": "Hinduism",
+            "E": "Islam"
+        },
+        "correct_answer": "E",
+        "pic_path": "06bed5f6-5903-4675-8aef-978233c228fd.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "1a8dcab9-91e1-4c29-8c44-2ebf50bc5104",
+        "question": "The Philippines and Indonesia are each an example of",
+        "options": {
+            "A": "a perforated state.",
+            "B": "a fragmented state.",
+            "C": "an elongated state.",
+            "D": "a prorupt state.",
+            "E": "a compact state."
+        },
+        "correct_answer": "C",
+        "pic_path": "1a8dcab9-91e1-4c29-8c44-2ebf50bc5104.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "9084b132-28b2-4b47-8794-3cc7b575d0d9",
+        "question": "Which one of the following statements is best supported by the map above?",
+        "options": {
+            "A": "Potatoes are grown mostly in the Midwest.",
+            "B": "Potatoes are not grown in the Southwest because of a cultural preference for corn.",
+            "C": "Potatoes would be in the first ring of von Thünen's model of agricultural location.",
+            "D": "Potatoes are most profitable when grown in cooler climates.",
+            "E": "Potatoes have overtaken bread as the staple of American life."
+        },
+        "correct_answer": "D",
+        "pic_path": "9084b132-28b2-4b47-8794-3cc7b575d0d9.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "21b127a3-d950-4ec7-b2c6-1bd0cbd792e2",
+        "question": "In the above urban model, what could be said is the main theme dictating residential land use?",
+        "options": {
+            "A": "The areas of industrialization",
+            "B": "The size of the CBD",
+            "C": "The proximity of rich to poor housing",
+            "D": "Transportation arteries",
+            "E": "Circular expansion of the city"
+        },
+        "correct_answer": "D",
+        "pic_path": "21b127a3-d950-4ec7-b2c6-1bd0cbd792e2.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "9da160aa-31d4-4218-be45-5b698a52695f",
+        "question": "Which of the following countries is the most probable location for the image above?",
+        "options": {
+            "A": "The United States",
+            "B": "Bangladesh",
+            "C": "China",
+            "D": "Argentina",
+            "E": "Japan"
+        },
+        "correct_answer": "A",
+        "pic_path": "9da160aa-31d4-4218-be45-5b698a52695f.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "afc41e64-085b-42df-a260-179be73d6e29",
+        "question": "Countries that have a growing number of facilities such as those depicted in the above image are most likely in which stage of the demographic transition model?",
+        "options": {
+            "A": "Stage 1",
+            "B": "Stage 2",
+            "C": "Stage 3",
+            "D": "Stage 4",
+            "E": "The demographic transition model has no relation to facilities that cater to elderly populations."
+        },
+        "correct_answer": "D",
+        "pic_path": "afc41e64-085b-42df-a260-179be73d6e29.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "6078f141-0752-4e46-a41d-3c2e94cefeb9",
+        "question": "Which of the following types of population-related policies might be in place in a country with a growing number of these types of facilities?",
+        "options": {
+            "A": "Pronatalist population policies",
+            "B": "Policies limiting the number of immigrants",
+            "C": "Policies discouraging large families through tax penalties",
+            "D": "Policies restricting guest workers and temporary migrants",
+            "E": "Policies decreasing the retirement age"
+        },
+        "correct_answer": "A",
+        "pic_path": "6078f141-0752-4e46-a41d-3c2e94cefeb9.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e140f730-686f-42ac-a452-c3a225c43edf",
+        "question": "The pie charts above most likely represent the labor force by occupation in which of the following pairs of countries?",
+        "options": {
+            "A": "Mexico; Denmark",
+            "B": "Saudi Arabia; South Africa",
+            "C": "Ethiopia; Norway",
+            "D": "Argentina; Belarus",
+            "E": "Italy; Australia"
+        },
+        "correct_answer": "C",
+        "pic_path": "e140f730-686f-42ac-a452-c3a225c43edf.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "26c74b6e-ef75-499e-b7f7-6465996e00a3",
+        "question": "On the basis of the data in the table above, how does a country's level of urbanization relate to its labor-force composition?",
+        "options": {
+            "A": "Highly urbanized countries, such as Australia, concentrate in services.",
+            "B": "Less urbanized countries, such as Zimbabwe, have a highly diverse labor force.",
+            "C": "Urbanized countries tend to have little to no industry.",
+            "D": "Less urbanized countries tend to have less agricultural production.",
+            "E": "There is no clear relationship between urbanization and labor-force composition."
+        },
+        "correct_answer": "A",
+        "pic_path": "26c74b6e-ef75-499e-b7f7-6465996e00a3.png",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "65c5154a-02ff-44dd-aeb2-7b1aa32f775c",
+        "question": "The above image of the Over the Rhine neighborhood in Cincinnati, Ohio, exhibits the efforts of many postindustrial cities in America's heartland to increase the livability of an old central business district. This process is referred to as",
+        "options": {
+            "A": "suburbanization.",
+            "B": "gentrification.",
+            "C": "redlining.",
+            "D": "mart growth.",
+            "E": "postmodernism."
+        },
+        "correct_answer": "B",
+        "pic_path": "65c5154a-02ff-44dd-aeb2-7b1aa32f775c.jpeg",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "60ca0da8-10df-42da-b546-64c8eb504f18",
+        "question": "Questions 3-5 refer to the following information.\nUse the following chart (data from the CIA World Factbook, 2019) to answer questions.\n\n\n On the basis of the data, how does a country's level of urbanization relate to its labor-force composition?",
+        "options": {
+            "A": "Highly urbanized countries, like Australia, concentrate on services.",
+            "B": "Less urbanized countries, like Zimbabwe, have a highly diverse labor force.",
+            "C": "Urbanized countries tend to have less industry.",
+            "D": "Less urbanized countries tend to have less agricultural production.",
+            "E": "There is no clear relationship between urbanization and labor-force"
+        },
+        "correct_answer": "A",
+        "pic_path": "60ca0da8-10df-42da-b546-64c8eb504f18.png",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "05368ca9-b971-49c2-bcd1-f47877d543bd",
+        "question": "Questions 3-5 refer to the following information.\n\nUse the following chart (data from the CIA World Factbook, 2019) to answer questions.\n4. Given Bangladesh's data, its position in the demographic transition model is most likely",
+        "options": {
+            "A": "stage 1",
+            "B": "stage 2",
+            "C": "stage 3",
+            "D": "stage 4",
+            "E": "stage 5"
+        },
+        "correct_answer": "C",
+        "pic_path": "05368ca9-b971-49c2-bcd1-f47877d543bd.png",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d6879afa-2d28-43ae-bd82-89eb010eb4d4",
+        "question": "Questions 3-5 refer to the following information.\n\nUse the following chart (data from the CIA World Factbook, 2019) to answer questions.\n5. If the chart contained an additional column with data showing educational attainment of women, what would the data be likely to reveal?",
+        "options": {
+            "A": "Educational attainment would be highest in Zimbabwe because service-based jobs require low levels of education.",
+            "B": "Educational attainment would be highest in Bangladesh because of increasing growth in microcredit for women.",
+            "C": "Educational attainment would be the same in Australia and Bangladesh, where industry and service occupation percentages are higher.",
+            "D": "Educational attainment would likely be highest in Australia, where service-based occupations dominate.",
+            "E": "Data on women's educational attainment would be likely to reveal that the three countries differed only minimally."
+        },
+        "correct_answer": "D",
+        "pic_path": "d6879afa-2d28-43ae-bd82-89eb010eb4d4.png",
+        "category": "APHuman Geography",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "52b339a0-09d4-467e-8f23-ad20fe5eedbc",
+        "question": "A violent tectonic earthquake occurred and resulted in the waves shown in the figure, and therefore this earthquake .......",
+        "options": {
+            "A": "is recorded and mass destruction is created.",
+            "B": "is recorded and does not cause any mass destruction.",
+            "C": "not reach the monitoring stations and cause destruction.",
+            "D": "reach the monitoring stations and do not cause destruction."
+        },
+        "correct_answer": "A",
+        "pic_path": "52b339a0-09d4-467e-8f23-ad20fe5eedbc.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "30e54a12-7289-47b3-ba15-4df634dec56a",
+        "question": "Deduce the types of the geological structures in the following figure?",
+        "options": {
+            "A": "A normal fault and three reverse faults.",
+            "B": "Two reverse faults and two normal faults.",
+            "C": "A reverse fault and three normal faults.",
+            "D": "A strike slip fault and three reverse faults."
+        },
+        "correct_answer": "B",
+        "pic_path": "30e54a12-7289-47b3-ba15-4df634dec56a.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0f784a7c-038b-4d57-908e-c76c540c9ec8",
+        "question": "In the following figure a magnitude of an earthquake was recorded at station (B), it was 5 Richter. What are the magnitud of this earthquake at stations (A) and (C) respectively?",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(4, 6)",
+            "C": "(6, 4)",
+            "D": "(6, 6)"
+        },
+        "correct_answer": "A",
+        "pic_path": "0f784a7c-038b-4d57-908e-c76c540c9ec8.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "b92d6b1e-917f-481c-b86f-c902a2ccbed1",
+        "question": "Study the following graph then answer:\nWhat does the (X) axis represent of the following?",
+        "options": {
+            "A": "Water depth.",
+            "B": "Temperature.",
+            "C": "Water speed.",
+            "D": "Nutrients percentage."
+        },
+        "correct_answer": "B",
+        "pic_path": "b92d6b1e-917f-481c-b86f-c902a2ccbed1.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "86bf6d8a-31d8-451b-8e6d-d60665df787e",
+        "question": "The following figure shows a hand spacment sample of a rock consisting of granules of varying sizes.\nDeduce the name of the rock and \nits type. ",
+        "options": {
+            "A": "Conglomerate - clastic sedimentary.",
+            "B": "Quartzite - metamorphic granular.",
+            "C": "Breccia - clastic sedimentary.",
+            "D": "Marble - metamorphic granular."
+        },
+        "correct_answer": "A",
+        "pic_path": "86bf6d8a-31d8-451b-8e6d-d60665df787e.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e99b6db3-7b75-46da-aa6d-99c07a8e452c",
+        "question": "In which of the following regions, the shown tectonic movement exists? \n",
+        "options": {
+            "A": "Mediterranean sea.",
+            "B": "Red sea.",
+            "C": "North Egypt mountains.",
+            "D": "Himalaya Mountain."
+        },
+        "correct_answer": "A",
+        "pic_path": "e99b6db3-7b75-46da-aa6d-99c07a8e452c.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "c5bc19b3-534d-4d65-8a2c-021df44419b7",
+        "question": "Study the previous table then: Determine the types of minerals (1) , (2) , (3) respectively? ",
+        "options": {
+            "A": "(1) native mineral , (2) silicates , (3) sulphides.",
+            "B": "(1) sulphates , (2) native mineral , (3) silicates.",
+            "C": "(1) silicates , (2) sulphides , (3) native mineral.",
+            "D": "(1) sulphides , (2) native mineral , (3) silicates."
+        },
+        "correct_answer": "D",
+        "pic_path": "c5bc19b3-534d-4d65-8a2c-021df44419b7.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "817289e3-2a11-41c5-b625-477e41809e72",
+        "question": "ادرس الخريطة ثم استنتج:\n\nيُعَدُّ خليج كاليفورنيا في أمريكا الشمالية بمثابة:",
+        "options": {
+            "A": "(أ) مياه داخلية للمكسيك.",
+            "B": "(ب) مياه داخلية للولايات المتحدة الأمريكية.",
+            "C": "(ج) مياه إقليمية للمكسيك.",
+            "D": "(د) مياه إقليمية للولايات المتحدة الأمريكية."
+        },
+        "correct_answer": "A",
+        "pic_path": "817289e3-2a11-41c5-b625-477e41809e72.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "76f91ccb-e0cb-434a-b1a0-6bc5879b5064",
+        "question": "仔细研究地图，然后推断：\n能够在保持其地理和民族特性的同时增加其政治单位数量的经济集团是..........\n",
+        "options": {
+            "A": "科米萨（COMESA，东南非共同市场）。",
+            "B": "海湾阿拉伯国家合作委员会（海合会）。",
+            "C": "亚太经合组织（APEC）。",
+            "D": "欧洲联盟。"
+        },
+        "correct_answer": "B",
+        "pic_path": "76f91ccb-e0cb-434a-b1a0-6bc5879b5064.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "bc1c88b6-f89c-480f-92b0-12948603b34d",
+        "question": "你面前是（文莱）苏丹国的地图，仔细研究后请推断：\n从形状上看，（文莱）与哪个国家相似.........\n",
+        "options": {
+            "A": "法国。",
+            "B": "日本。",
+            "C": "意大利。",
+            "D": "美国。"
+        },
+        "correct_answer": "D",
+        "pic_path": "bc1c88b6-f89c-480f-92b0-12948603b34d.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "ba318b1f-7087-4375-a5c6-4e392d5c9976",
+        "question": "“在世界地图上，国家的心脏或核心区域是多样的。”\n根据这句话和世界地图可以推断出：\n毗邻国家数量较少的国家，其心脏区域的重要性主要体现在……方面。",
+        "options": {
+            "A": "经济方面",
+            "B": "政治方面",
+            "C": "宗教方面",
+            "D": "人口方面"
+        },
+        "correct_answer": "A",
+        "pic_path": "ba318b1f-7087-4375-a5c6-4e392d5c9976.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "57f82769-e1ed-4287-b29d-bc607c016f64",
+        "question": "仔细研究地图，然后得出结论：\n平原有助于实现居民之间的文化融合。\n能体现这一点的平原是：",
+        "options": {
+            "A": "西伯利亚平原，位于亚洲北部。",
+            "B": "欧洲大平原。",
+            "C": "北美的中部平原。",
+            "D": "南美的拉普拉塔平原。"
+        },
+        "correct_answer": "A",
+        "pic_path": "57f82769-e1ed-4287-b29d-bc607c016f64.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "519ae76e-59d4-43c5-9bcb-990d745717ae",
+        "question": "请研究右侧的地图，然后推断：\n在以下哪两国之间，发生边界问题的可能性较小？",
+        "options": {
+            "A": "乍得和马里",
+            "B": "坦桑尼亚和肯尼亚",
+            "C": "乍得和中非共和国",
+            "D": "坦桑尼亚和莫桑比克"
+        },
+        "correct_answer": "A",
+        "pic_path": "519ae76e-59d4-43c5-9bcb-990d745717ae.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0d3b88f2-ed0a-495b-951b-4ffe88073ff6",
+        "question": "学习地图然后得出结论：\n国际法院决定将突尼斯和利比亚之间的海洋边界偏转52度角，这是由于突尼斯海岸线方向的变化导致的，这种变化的方向是朝向………：",
+        "options": {
+            "A": "东北方向",
+            "B": "西北方向",
+            "C": "东南方向",
+            "D": "西南方向"
+        },
+        "correct_answer": "A",
+        "pic_path": "0d3b88f2-ed0a-495b-951b-4ffe88073ff6.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "489ec069-24ee-4f62-aea5-98bbd8e0d562",
+        "question": "学习这两张地图，然后推断：\n在划定大部分阿拉伯国家政治边界方面起主导作用的欧洲国家是：",
+        "options": {
+            "A": "德国和葡萄牙",
+            "B": "法国和英国",
+            "C": "比利时和西班牙",
+            "D": "波兰和荷兰"
+        },
+        "correct_answer": "B",
+        "pic_path": "489ec069-24ee-4f62-aea5-98bbd8e0d562.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "2f189e76-8b9a-4b7f-8f5b-4d7b9a61be56",
+        "question": "在区域（1）中，由海水中的钙化合物沉积而成、含有海洋动物骨骼的岩石将会是......",
+        "options": {
+            "A": "受到热的影响并具有鲜艳颜色的。",
+            "B": "受到热的影响并具有片理结构的。",
+            "C": "受到热和压力的影响形成石英岩的。",
+            "D": "受到压力的影响但没有鲜艳颜色的。"
+        },
+        "correct_answer": "A",
+        "pic_path": "2f189e76-8b9a-4b7f-8f5b-4d7b9a61be56.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d67ae78f-089e-4d01-82cd-171e6c071456",
+        "question": "第（5）区的岩浆富含 ...............\n",
+        "options": {
+            "A": "钙 - 铁",
+            "B": "钠 - 镁",
+            "C": "钠 - 钙",
+            "D": "铁 - 钾"
+        },
+        "correct_answer": "A",
+        "pic_path": "d67ae78f-089e-4d01-82cd-171e6c071456.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3518ea2c-9527-4e15-af4a-550ced296f26",
+        "question": "(A) 和 (B) 是两个相邻区域中的不整合面，这两个不整合面之上的相似岩层具有相同的年龄，且区域 (2) 的侵蚀速率比区域 (1) 更快。\n现在要求找出不整合面 (A) 和 (B) 之间的时间关系：\n",
+        "options": {
+            "A": "拥有相同的年龄，且上升运动发生在剖面 (1) 中",
+            "B": "A 比 B 更老",
+            "C": "B 比 A 更老",
+            "D": "拥有相同的年龄，且上升运动发生在剖面 (2) 中"
+        },
+        "correct_answer": "A",
+        "pic_path": "3518ea2c-9527-4e15-af4a-550ced296f26.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "fb780df8-0040-4d7f-b030-2286f198355d",
+        "question": "你面前有一个胶结颗粒的手标本，预计这些颗粒的主要粒径是：",
+        "options": {
+            "A": "2500 微米",
+            "B": "1500 微米",
+            "C": "500 微米",
+            "D": "100 微米"
+        },
+        "correct_answer": "A",
+        "pic_path": "fb780df8-0040-4d7f-b030-2286f198355d.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "24accfc2-403f-4e3d-a13b-f55c1f44ae5a",
+        "question": "图示展示了河流A、B、C、D点在河床中的弯曲走势。\n请问哪个位置的水流速度最慢？",
+        "options": {
+            "A": "C 和 D",
+            "B": "A 和 B",
+            "C": "和 D\nB. A 和 B\nC. B 和 D",
+            "D": "D 和 A"
+        },
+        "correct_answer": "A",
+        "pic_path": "24accfc2-403f-4e3d-a13b-f55c1f44ae5a.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a16ffab0-963a-469f-8f95-87b76c0e338e",
+        "question": "通过地图，我们可以得出以下结论：\n有两个国家濒临两片水域，拥有漫长的海岸线，并且这两个国家在国土形状上非常相似，它们是：\n",
+        "options": {
+            "A": "瑞典和意大利",
+            "B": "西班牙和葡萄牙",
+            "C": "德国和保加利亚",
+            "D": "芬兰和波兰"
+        },
+        "correct_answer": "A",
+        "pic_path": "a16ffab0-963a-469f-8f95-87b76c0e338e.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "9fd2caf7-9188-46de-aa3d-daeac6898d55",
+        "question": "通过地图说明：\n图中所示地区的政治发展与谁的观点相一致？\n",
+        "options": {
+            "A": "伊本·赫勒敦",
+            "B": "亚里士多德",
+            "C": "拉岑",
+            "D": "奇连"
+        },
+        "correct_answer": "A",
+        "pic_path": "9fd2caf7-9188-46de-aa3d-daeac6898d55.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3e15beba-fd41-432e-95a2-160d225214bc",
+        "question": "一个曾经是两个军事同盟成员的亚洲国家是：\n",
+        "options": {
+            "A": "巴基斯坦",
+            "B": "伊拉克",
+            "C": "伊朗",
+            "D": "英国"
+        },
+        "correct_answer": "A",
+        "pic_path": "3e15beba-fd41-432e-95a2-160d225214bc.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "5e073d14-8a5f-49ba-b4c1-6b949a783eeb",
+        "question": "博茨瓦纳和莱索托这两个国家的对外关系受到与以下哪个国家关系的影响：",
+        "options": {
+            "A": "南非",
+            "B": "纳米比亚",
+            "C": "莫桑比克",
+            "D": "津巴布韦"
+        },
+        "correct_answer": "A",
+        "pic_path": "5e073d14-8a5f-49ba-b4c1-6b949a783eeb.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "ee622c5e-468c-40e8-a8ab-ee8fd75218e8",
+        "question": "根据所附地图可以推断出，在亚洲最东端和欧洲最西端存在形状相似的国家，这种形状是：",
+        "options": {
+            "A": "部分海洋型",
+            "B": "凸出型（如花瓣）",
+            "C": "条带状",
+            "D": "整体型（块状）"
+        },
+        "correct_answer": "A",
+        "pic_path": "ee622c5e-468c-40e8-a8ab-ee8fd75218e8.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "03ce7c7b-8943-4811-93fd-81c7e3292ba8",
+        "question": "请根据地图说明，哪一个洲的山地边界 最不明显……",
+        "options": {
+            "A": "北美洲",
+            "B": "南美洲",
+            "C": "欧洲",
+            "D": "亚洲"
+        },
+        "correct_answer": "A",
+        "pic_path": "03ce7c7b-8943-4811-93fd-81c7e3292ba8.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e32316e8-fe2d-41b4-903d-bf98f941aed5",
+        "question": "根据你面前的地图，说明苏丹与7个非洲国家接壤，这种情况与哪个国家相似？",
+        "options": {
+            "A": "尼日尔",
+            "B": "南苏丹",
+            "C": "毛里塔尼亚",
+            "D": "安哥拉"
+        },
+        "correct_answer": "A",
+        "pic_path": "e32316e8-fe2d-41b4-903d-bf98f941aed5.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "b73153c0-342c-4ff6-9d9e-1e89db886b62",
+        "question": "根据你面前的地图，指出以下哪些区域由于地形特征而难以实现文化融合？",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "pic_path": "b73153c0-342c-4ff6-9d9e-1e89db886b62.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "9b1bba5c-a85e-42d0-af64-bf30879d95b8",
+        "question": "你面前的图片代表民主政权体系中的一种权力机构，它是……",
+        "options": {
+            "A": "立法权",
+            "B": "地方权力",
+            "C": "司法权",
+            "D": "行政权"
+        },
+        "correct_answer": "A",
+        "pic_path": "9b1bba5c-a85e-42d0-af64-bf30879d95b8.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3cf5a32b-e17d-4d91-a829-a86e4f9dd66b",
+        "question": "根据地图说明，一个导致“世界秩序”概念出现的国家是......",
+        "options": {
+            "A": "科威特",
+            "B": "阿尔及利亚",
+            "C": "也门",
+            "D": "约旦"
+        },
+        "correct_answer": "A",
+        "pic_path": "3cf5a32b-e17d-4d91-a829-a86e4f9dd66b.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d4692e31-fb01-4271-b8b6-37c8c2c542f4",
+        "question": "أمامك خريطة سياسية للعالم ادرسها جيدا ثم اختر :\nيقطع خط جرينتش دوله تعاني من مشكالت اجتماعية ذات بعد سياسى وهي.........",
+        "options": {
+            "A": "أ - المملكة المتحدة",
+            "B": "ب - غانا",
+            "C": "ج -  إسبانيا",
+            "D": "د - مالي"
+        },
+        "correct_answer": "C",
+        "pic_path": "d4692e31-fb01-4271-b8b6-37c8c2c542f4.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "33439361-5048-4754-ab5f-170cae4a8c44",
+        "question": "- اللغة الواحدة هي أساس تكوين القوميات\". في ضوء العبارة استنتج : \n أكثر الدول التي ارتبط ظهورها بالقوميات تقع في قارة ........",
+        "options": {
+            "A": "أ-إفريقيا",
+            "B": "ب-أمريكا الشمالية",
+            "C": "ج-أوروبا",
+            "D": "د-أمريكا الجنوبية"
+        },
+        "correct_answer": "C",
+        "pic_path": "33439361-5048-4754-ab5f-170cae4a8c44.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "5b572281-22d7-46fa-962f-003208efadbb",
+        "question": "أمامك خريطةالعالمادرسهاجيداثماختر: \nتمثلجبالزاجروسحدابينإيرانشرقاوالعراقغربا، وهو ما يتشابه مع اتجاه الحدود الجبلية ",
+        "options": {
+            "A": "بين دولتي......،.......",
+            "B": "أ-الهند والصين",
+            "C": "ب-فرنسا وإسبانيا",
+            "D": "ج-شيلي واﻷرجنتين",
+            "E": "د-سوريا وتركيا"
+        },
+        "correct_answer": "D",
+        "pic_path": "5b572281-22d7-46fa-962f-003208efadbb.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "4ea20a87-3826-4fe5-b637-21872bd809d2",
+        "question": "-ادرس الشكل المقابل واستنتج شكل الدولة التي تمتد بين دائرتي عرض 20شماﻻحتى25شماﻻوبين خطي طول 4غرباحتى20غربا",
+        "options": {
+            "A": "أ-مستطيلعرضي",
+            "B": "ب-مندمج",
+            "C": "ج-مجزأ بري",
+            "D": "د-مستطيل طولي"
+        },
+        "correct_answer": "A",
+        "pic_path": "4ea20a87-3826-4fe5-b637-21872bd809d2.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "ee73e2cc-4fd3-4008-97b4-c9194b786b23",
+        "question": "–في ضوء دراستك للخريطتين اللتين أمامك استنتج :\nالدولة التي تستطيع استغﻻل نباتها الطبيعى أثناء الحروب هى .........",
+        "options": {
+            "A": "أ -اندونيسيا",
+            "B": "ب-السعودية",
+            "C": "ج-ليبيا",
+            "D": "د-الصومال"
+        },
+        "correct_answer": "A",
+        "pic_path": "ee73e2cc-4fd3-4008-97b4-c9194b786b23.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "fee9a22c-1c83-4686-9506-55eb5941f3b5",
+        "question": "-في ضوء دراستك للخريطة التى أمامكاستنتج:\nالدولةاﻷكثرتنوعامن حيثالتركيب الجيولوجي.........",
+        "options": {
+            "A": "أ-النيجر",
+            "B": "ب-البرازيل",
+            "C": "ج-اليابان",
+            "D": "د-النمسا"
+        },
+        "correct_answer": "B",
+        "pic_path": "fee9a22c-1c83-4686-9506-55eb5941f3b5.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "c513e9ef-dfc7-4994-9348-548c2c083d55",
+        "question": "-ادرس مضمون الشكل امامك ثم استنتج: \nطبقة الستراتوسفير إحدى طبقات الغﻻف الجوي وهيتتشابه فىترتيب موقعها مع أحد المناطق المائية وهي ...... ",
+        "options": {
+            "A": "أ –الرصيف القارى",
+            "B": "ب-المياه المحايدة",
+            "C": "ج-المياه التكميليةد-المياه الداخلية"
+        },
+        "correct_answer": "C",
+        "pic_path": "c513e9ef-dfc7-4994-9348-548c2c083d55.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "56ec1f34-ee8b-4986-9cdd-f56b8a9e9e4b",
+        "question": "–ادرس خريطة العالم السياسية قبل الحرب العالمية اﻷولى وخريطة العالم السياسية عام2015مثم استنتج: المسطح المائي الذي شهدفى النصف الثانى من القرن العشرينأقل عدد من تغيرات الحدود السياسية بالدول التي تشرف عليه هو.......... ",
+        "options": {
+            "A": "أ-المحيط الهندي ب-البحر المتوسط ج-البحر اﻷسودد-المحيط الهادي"
+        },
+        "correct_answer": "A",
+        "pic_path": "56ec1f34-ee8b-4986-9cdd-f56b8a9e9e4b.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0c92d761-9a80-4230-83a1-4386de0179ed",
+        "question": "–ادرس الخريطة التى أمامك ثم استنتج:بعد انفصال دولة جنوب السودان عن دولة السودان \nزادعدد الدول ......... ",
+        "options": {
+            "A": "أ-الحبيسة المشتركة مع حدود أوغندا",
+            "B": "ب-البحريةالمشتركة فـي حوض النيل ج-البحرية المشتركة مع حدود السودان د-الحبيسة المشتركة مع حدود السودان"
+        },
+        "correct_answer": "A",
+        "pic_path": "0c92d761-9a80-4230-83a1-4386de0179ed.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "795cffe9-0da1-4f64-8a34-730d10e034e6",
+        "question": "–أمامك خريطة العالم السياسية ادرسهاجيدًا ثم اخترتجتمعالحدودالطبيعيةوالهندسيةمعافي كل من الحد الشمالي والجنوبي لدولة ........... ",
+        "options": {
+            "A": "أ-إسبانيا",
+            "B": "ب-الوﻻيات المتحدة",
+            "C": "ج-الصين",
+            "D": "د-مصر"
+        },
+        "correct_answer": "A",
+        "pic_path": "795cffe9-0da1-4f64-8a34-730d10e034e6.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "1cdd780d-84e7-4858-960c-26bd927eb07e",
+        "question": "– يعبر مضمون الصورة التى أمامك عن أحد فروع الجغرافيا السياسية \n والذي أرتبط بأحد العلماء وهو.......",
+        "options": {
+            "A": "أ-أرسطو",
+            "B": "ب-ابن خلدون",
+            "C": "ج-كيلين",
+            "D": "د-سيجفريد"
+        },
+        "correct_answer": "B",
+        "pic_path": "1cdd780d-84e7-4858-960c-26bd927eb07e.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "626facee-41ed-4957-a06d-fa5347f0a9ae",
+        "question": "ادرس الخريطة المقابلة ثم استنتج: \n من األنهار التي قد تثير مشكالت سياسية حدودية .....،.....",
+        "options": {
+            "A": "أ -الراين، الدانوب",
+            "B": "ب-الدانوب، السين",
+            "C": "ج-السين، بو",
+            "D": "د-بو، الراين"
+        },
+        "correct_answer": "A",
+        "pic_path": "626facee-41ed-4957-a06d-fa5347f0a9ae.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "2a579976-858e-46ad-886a-de4d28d02b6a",
+        "question": "–\"تقع العاصمة بالدولة التي أمامك عند تقاطع دائرة العرض25شماﻻمع خط طول 11غربا\" في ضوء العبارة حدد منطقة اﻷقلية التى يسهل السيطرة عليها حال قيامها باضطرابات داخل الدولة ",
+        "options": {
+            "A": "أ-س",
+            "B": "ب-ص",
+            "C": "ج-ع",
+            "D": "د-ن"
+        },
+        "correct_answer": "B",
+        "pic_path": "2a579976-858e-46ad-886a-de4d28d02b6a.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "1de49fbe-e504-4edb-8899-030540796101",
+        "question": "– في ضوء دراستك للخريطة التى أمامك استنتج: \n الدولة األكثر تنوعا من حيث التركيب الجيولوجي .........",
+        "options": {
+            "A": "أ-النيجر",
+            "B": "ب-البرازيل",
+            "C": "ج-اليابان",
+            "D": "د-النمسا"
+        },
+        "correct_answer": "B",
+        "pic_path": "1de49fbe-e504-4edb-8899-030540796101.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "cf9302a3-678f-4507-a626-4a8895aebeb5",
+        "question": "–من خﻻل قراءتك لخريطة العالم السياسية استنتج :\nتقطع دائرة اﻻستواء دولة ذات شكل مندمجذو البروز وهى............ ",
+        "options": {
+            "A": "أ-الكونغو الديمقراطية",
+            "B": "ج -ناميبيا ب-أفغانستان",
+            "C": "د-جنوب السودان"
+        },
+        "correct_answer": "B",
+        "pic_path": "cf9302a3-678f-4507-a626-4a8895aebeb5.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "400f08aa-76b5-4490-ab64-4cd328bcbbed",
+        "question": "-ادرس الخريطة أمامك وفي ضوء دراستك ﻷقوى حلف عسكري قائم اﻵن استنتج:\nالدولة التي اشتركت في ثﻻث أحﻻف عسكرية هي .... ",
+        "options": {
+            "A": "أ-المانيا",
+            "B": "ب-فرنسا",
+            "C": "ج-الوﻻيات المتحدةاﻷمريكية",
+            "D": "د-المملكة المتحدة"
+        },
+        "correct_answer": "C",
+        "pic_path": "400f08aa-76b5-4490-ab64-4cd328bcbbed.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a9787fef-cc8b-406e-b9ca-c47592acb7f1",
+        "question": "在对面的地图上显示了安多拉国家，它在其形态特征上与………………国家相似",
+        "options": {
+            "A": "（أ）莱索托",
+            "B": "（ب）斯威士兰",
+            "C": "（ج）巴拉圭",
+            "D": "（د）吉布提"
+        },
+        "correct_answer": "B",
+        "pic_path": "a9787fef-cc8b-406e-b9ca-c47592acb7f1.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "b69b1a8d-779b-4088-86e0-7915730170f8",
+        "question": "通过对以下两幅地图的比较，可以清楚地看出由于国家合并而导致的变化，这在以下哪个海洋附近的国家附近显现出来。",
+        "options": {
+            "A": "（أ）太平洋",
+            "B": "（ب）黑海",
+            "C": "（ج）咸海",
+            "D": "（د）亚丁湾"
+        },
+        "correct_answer": "A",
+        "pic_path": "b69b1a8d-779b-4088-86e0-7915730170f8.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "78e6f922-b4b0-40d7-91cb-5e1614dc2519",
+        "question": "联合国确认了地图中标示的两个国家享有自决权，这与其在………………中的角色相矛盾。”",
+        "options": {
+            "A": "（أ）科威特",
+            "B": "（ب）巴勒斯坦",
+            "C": "（ج）巴基斯坦",
+            "D": "（د）波斯尼亚"
+        },
+        "correct_answer": "B",
+        "pic_path": "78e6f922-b4b0-40d7-91cb-5e1614dc2519.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a2dbc5c3-de58-4df7-9a72-6a8b9fa2d361",
+        "question": "从对面地图中，可以想象密歇根湖代表一个国家，其海岸线构成其政治边界，那么它在形状上将类似于………………国家。\"",
+        "options": {
+            "A": "（أ）瑞典",
+            "B": "（ب）土耳其",
+            "C": "（ج）菲律宾",
+            "D": "（د）尼泊尔"
+        },
+        "correct_answer": "A",
+        "pic_path": "a2dbc5c3-de58-4df7-9a72-6a8b9fa2d361.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "41a3a86a-9d39-48b4-8b5d-e62327af9377",
+        "question": "阿斯旺高坝的修建有助于埃及实现…………\"",
+        "options": {
+            "A": "（أ）提高农田的肥力。",
+            "B": "（ب）改变该地区的人口结构。",
+            "C": "（ج）增加非法移民。",
+            "D": "（د）降低经济发展率。"
+        },
+        "correct_answer": "B",
+        "pic_path": "41a3a86a-9d39-48b4-8b5d-e62327af9377.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3bf0071d-d5b2-41e3-8f55-b650fd81432f",
+        "question": "以下哪些地区发生了同一民族内部的经济冲突？",
+        "options": {
+            "A": "（أ）地中海南部。",
+            "B": "（ب）高加索地区。",
+            "C": "（ج）克什米尔地区。",
+            "D": "（د）大河流域各国。"
+        },
+        "correct_answer": "A",
+        "pic_path": "3bf0071d-d5b2-41e3-8f55-b650fd81432f.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d6c8a668-664d-4005-960a-b008c235375a",
+        "question": "在对面的地图中显示了一种水域类型，它是………………",
+        "options": {
+            "A": "（أ）邻接水域。",
+            "B": "（ب）补充水域。",
+            "C": "（ج）领海。",
+            "D": "（د）国际水域。"
+        },
+        "correct_answer": "C",
+        "pic_path": "d6c8a668-664d-4005-960a-b008c235375a.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "46e33a00-1e32-446f-ac28-6d86a7059c70",
+        "question": "在20世纪下半叶，来自非洲西部牧区的移民潮与……有关。",
+        "options": {
+            "A": "（أ）自然灾害。",
+            "B": "（ب）战争。",
+            "C": "（ج）关税。",
+            "D": "（د）人口增长。"
+        },
+        "correct_answer": "A",
+        "pic_path": "46e33a00-1e32-446f-ac28-6d86a7059c70.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "22f15f83-f618-403c-98c4-d57cf1991f94",
+        "question": "知识和技术的发展以及现代技术的出现促进了政治地理学的发展’，根据上述陈述：以下哪一项在解决对面图片中所示问题中起到了最重要的作用？",
+        "options": {
+            "A": "（أ）遥感和地理信息系统。",
+            "B": "（ب）通信手段与信息技术。",
+            "C": "（ج）遥感与国际关系。",
+            "D": "（د）国际组织与通信手段。"
+        },
+        "correct_answer": "D",
+        "pic_path": "22f15f83-f618-403c-98c4-d57cf1991f94.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "7d4c87c6-b63e-486a-ae1a-36dd68acc03e",
+        "question": "如果对面地图中所示的两个地区独立并组成一个国家，那么它们的形状将类似于……国家",
+        "options": {
+            "A": "（أ）美国",
+            "B": "（ب）意大利",
+            "C": "（ج）比利时",
+            "D": "（د）英国"
+        },
+        "correct_answer": "A",
+        "pic_path": "7d4c87c6-b63e-486a-ae1a-36dd68acc03e.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "ebc154f1-62e1-440c-a937-d96b4424d1df",
+        "question": "根据你对对面地图的分析，可以得出结论：埃及的大多数港口通常位于该国的领海内，但有一个港口例外，即……港",
+        "options": {
+            "A": "（أ）苏伊士",
+            "B": "（ب）亚历山大",
+            "C": "（ج）萨法贾",
+            "D": "（د）塞得港（也称：波特赛义德）"
+        },
+        "correct_answer": "A",
+        "pic_path": "ebc154f1-62e1-440c-a937-d96b4424d1df.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "815ea89f-a912-41a9-adc5-aa1d31b6694c",
+        "question": "以下哪一项可以视为导致对面地图中所示国家首都迁移的原因？",
+        "options": {
+            "A": "（أ）国家主权。",
+            "B": "（ب）通达便利。",
+            "C": "（ج）经济重要性。",
+            "D": "（د）地理位置。"
+        },
+        "correct_answer": "C",
+        "pic_path": "815ea89f-a912-41a9-adc5-aa1d31b6694c.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "6a7f7d2a-53e2-4ed5-91c5-7432005f0d6e",
+        "question": "苏丹在海岸线长度和国家形状方面与……国家相似",
+        "options": {
+            "A": "أ - 肯尼亚",
+            "B": "ب - 刚果",
+            "C": "ج - 厄立特里亚",
+            "D": "د - 纳米比亚"
+        },
+        "correct_answer": "A",
+        "pic_path": "6a7f7d2a-53e2-4ed5-91c5-7432005f0d6e.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a9faa28e-7f5f-45de-92c5-6d20a0c50c24",
+        "question": "从观察对面的地图可以推断出，最适合进行文化融合和城市发展的地区是编号为……的地区。",
+        "options": {
+            "A": "أ - (1)",
+            "B": "ب - (2)",
+            "C": "ج - (3)",
+            "D": "د - (4)"
+        },
+        "correct_answer": "D",
+        "pic_path": "a9faa28e-7f5f-45de-92c5-6d20a0c50c24.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "066047fd-325b-43db-966d-12537c897093",
+        "question": "通过比较濒临马拉维湖的国家与濒临维多利亚湖的国家，我们发现这些临湖国家在以下方面存在差异",
+        "options": {
+            "A": "أ - 濒临它们的国家数量",
+            "B": "ب - 濒临湖泊的国家数量",
+            "C": "ج - 东部国家边界形成的原因",
+            "D": "د - 每个湖泊沿岸国家的地形特征"
+        },
+        "correct_answer": "D",
+        "pic_path": "066047fd-325b-43db-966d-12537c897093.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e2dabeac-a905-457f-ae60-f3288064a592",
+        "question": "通过分析对面地图的内容，我们可以得出结论：受气候变化负面影响最大的牧场地区是……，这是由技术发展所引发的气候变化造成的，影响体现在两个方面",
+        "options": {
+            "A": "أ - 赤道线和南回归线",
+            "B": "ب - 南回归线和格林尼治线",
+            "C": "ج - 格林尼治线和北回归线",
+            "D": "د - 赤道圈和格林尼治线"
+        },
+        "correct_answer": "C",
+        "pic_path": "e2dabeac-a905-457f-ae60-f3288064a592.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "ddb36520-ee06-443a-80e3-f550c9471733",
+        "question": "如果发生一次震级为 6.7 级的地震，受影响最严重的阿拉伯国家是……",
+        "options": {
+            "A": "أ - 也门",
+            "B": "ب - 吉布提",
+            "C": "ج - 苏丹",
+            "D": "د - 埃及"
+        },
+        "correct_answer": "B",
+        "pic_path": "ddb36520-ee06-443a-80e3-f550c9471733.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "5fbff3d9-0c58-409f-80aa-9c77d737866d",
+        "question": "观察图片中温度与降水的双重变化轨迹，以下哪项最能体现该地区的降雨季节特征？",
+        "options": {
+            "A": "降雨集中于夏季，形成暴雨型降水",
+            "B": "降雨全年分布均匀但雨量稀少，气温则常年恒定",
+            "C": "降水主要发生在春秋两季，夏季最为干燥",
+            "D": "降雨高峰出现在冬季，常伴随剧烈降温过程"
+        },
+        "correct_answer": "C",
+        "pic_path": "5fbff3d9-0c58-409f-80aa-9c77d737866d.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0f218d30-2642-44b2-9a40-29cf3967d667",
+        "question": "El gráfico anterior, muestra el monto de las importaciones chilenas en millones de dólares en el año 2000. De su análisis y considerando los rasgos del comercio exterior chileno, ¿cuál fue uno de los aspectos característicos de las importaciones nacionales en el año aludido?",
+        "options": {
+            "A": "El predominio de recursos renovables para manufacturas.",
+            "B": "La gran variedad de productos energéticos.",
+            "C": "La inexistencia de productos alimenticios.",
+            "D": "La diversidad de productos para transporte.",
+            "E": "La escasez de aparatos tecnológicos."
+        },
+        "correct_answer": "D",
+        "pic_path": "0f218d30-2642-44b2-9a40-29cf3967d667.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "2150115f-acb6-4cc0-99db-5a2c51a26a85",
+        "question": "El mapa anterior es una representación de las principales regiones culturales en que es posible dividir el planeta, diferenciadas por distintos colores. A partir de su lectura, ¿cuál de las siguientes afirmaciones es correcta respecto de la realidad cultural del mundo? ",
+        "options": {
+            "A": "Al interior de cada una de estas regiones existe gran homogeneidad lingüística.",
+            "B": "La mayoría de estas regiones pueden ser divididas en subregiones de acuerdo a diversas características.",
+            "C": "Las regiones de Asia están conformadas internamente por una sola nación que las identifica.",
+            "D": "Las grandes regiones del mundo conforman unidades uniformes en cuanto a sus creencias religiosas.",
+            "E": "Las grandes regiones africanas están definidas por su conformación en dos etnias distintas."
+        },
+        "correct_answer": "B",
+        "pic_path": "2150115f-acb6-4cc0-99db-5a2c51a26a85.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3c534b8e-d08a-4703-b74c-d64f4afabb8c",
+        "question": "La ONU define a las poblaciones indígenas como los «primeros pueblos», que presentan rasgos específicos tales como el lenguaje. En el mapa anterior los territorios nacionales se han redimensionado para representar la cantidad de lenguas indígenas que existen en cada país. Entonces, a mayor tamaño del país representado mayor es la cantidad de lenguas indígenas presentes. Los colores solo se utilizan para diferenciar a cada uno de los países. Analizando la información del mapa temático anterior y considerando la historia de las grandes regiones del planeta, ¿cuál de los siguientes factores explica las diferencias observadas en el mapa? ",
+        "options": {
+            "A": "El proceso de colonización de África implantó el inglés como única lengua oficial.",
+            "B": "El mayor volumen de población se encuentra en Asia y por tanto cuenta con la mayor diversidad lingüística indígena.",
+            "C": "El continente con mayor diversidad de lenguas indígenas habladas es Europa.",
+            "D": "La colonización hispana y portuguesa en América redujo la diversidad lingüística indígena.",
+            "E": "Producto de la colonización europea, Oceanía incrementó la diversidad lingüística indígena."
+        },
+        "correct_answer": "D",
+        "pic_path": "3c534b8e-d08a-4703-b74c-d64f4afabb8c.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0ef7f593-2eb2-4033-b000-17157785c432",
+        "question": "La imagen anterior entrega información sobre la evolución del VIH y SIDA en el mundo entre los años 2001 y 2012. Considerando esta información, ¿cuál(es) de las siguientes inferencias es (son) correcta(s) respecto del desarrollo de esta enfermedad durante ese periodo? I) Los altos niveles de pobreza están vinculados con la expansión de la enfermedad. II) La implementación de políticas públicas ha sido insuficiente para detener la propagación de la enfermedad. III) Las formas de contagio son desconocidas por el conjunto de la población a nivel mundial.",
+        "options": {
+            "A": "Solo I",
+            "B": "Solo II",
+            "C": "Solo III",
+            "D": "Solo I y II",
+            "E": "Solo I y III"
+        },
+        "correct_answer": "D",
+        "pic_path": "0ef7f593-2eb2-4033-b000-17157785c432.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "736f1251-f145-4e0c-a82f-2d41acac0c4a",
+        "question": "Luego del análisis de la información proporcionada en el cuadro anterior, es correcto afirmar que el ritmo del crecimiento urbano cada cinco años es diferente en países desarrollados y subdesarrollados. A partir de 1970, ¿cuál es uno de los factores que explican dichas diferencias?",
+        "options": {
+            "A": "El descenso de las migraciones campo-ciudad en los países subdesarrollados.",
+            "B": "La mayor esperanza de vida en los países subdesarrollados.",
+            "C": "La baja tasa de natalidad en los países desarrollados.",
+            "D": "La alta tasa de morbilidad en los países subdesarrollados.",
+            "E": "La alta tasa de mortalidad infantil en el mundo."
+        },
+        "correct_answer": "C",
+        "pic_path": "736f1251-f145-4e0c-a82f-2d41acac0c4a.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "93df7adc-e134-4a30-98bf-02354604a86b",
+        "question": "La imagen anterior proporciona información sobre una de las causas del deterioro medioambiental que afecta al planeta en la actualidad. A partir de su análisis, ¿cuál(es) de las siguientes afirmaciones es(son) correcta(s) respecto del fenómeno representado en la imagen? I) Los países industrializados son los que más emiten gases de efecto invernadero. II) La superficie territorial de los países no es determinante respecto del volumen de emisiones de gases de efecto invernadero. III) Los países que menos emiten gases de efecto invernadero se encuentran marginados del proceso de globalización económica. ",
+        "options": {
+            "A": "Solo II",
+            "B": "Solo III",
+            "C": "Solo I y II",
+            "D": "Solo I y III",
+            "E": "Solo II y III"
+        },
+        "correct_answer": "C",
+        "pic_path": "93df7adc-e134-4a30-98bf-02354604a86b.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "84427a07-2a56-48a7-a892-e7b45c4d2999",
+        "question": "Basado en lo anterior, ¿qué característica(s) de la economía chilena es correcto concluir de la distribución de los datos? I) La explotación de recursos naturales es una actividad significativa en la composición del producto interno bruto. II) La existencia de una gran inversión en las diversas actividades del sector servicios. III) La preeminencia del Estado en el conjunto de las actividades económicas.",
+        "options": {
+            "A": "Solo I",
+            "B": "Solo II",
+            "C": "Solo I y II",
+            "D": "Solo I y III",
+            "E": "Solo II y III"
+        },
+        "correct_answer": "C",
+        "pic_path": "84427a07-2a56-48a7-a892-e7b45c4d2999.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f74126be-414e-47cf-8857-cd430579e147",
+        "question": "El gráfico anterior muestra la evolución del desempleo y del crecimiento económico en Chile entre 1978 y 2004. ¿Qué fenómeno económico es correcto inferir a partir de la información del gráfico? ",
+        "options": {
+            "A": "El descenso sostenido del desempleo producto de la introducción de las políticas económicas proteccionistas.",
+            "B": "La concentración del mayor crecimiento económico a partir de 1998 a causa de la internacionalización.",
+            "C": "La estabilidad del producto interno bruto conseguida gracias a las políticas de control del gasto fiscal.",
+            "D": "El desarrollo de una crisis económica y social producto de la recesión mundial de la década de 1980.",
+            "E": "La baja del desempleo debido a las medidas fiscales adoptadas desde 1990."
+        },
+        "correct_answer": "D",
+        "pic_path": "f74126be-414e-47cf-8857-cd430579e147.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "759568e1-e48d-48eb-8c3b-eddc2e42fae9",
+        "question": "Sewell fue un complejo minero perteneciente al mineral de cobre El Teniente y, al igual que otras ciudades y campamentos mineros del siglo XX, se caracteriza por su emplazamiento geográfico. De acuerdo a lo que se observa en la imagen y considerando las características productivas de la gran minería de aquella época, ¿qué factor explica la localización de dicho complejo minero en las laderas cordilleranas de los Andes? ",
+        "options": {
+            "A": "La búsqueda de condiciones climáticas aptas para el desarrollo de las faenas mineras.",
+            "B": "Los estándares productivos y arquitectónicos establecidos por la corporación estatal del cobre.",
+            "C": "La necesidad de concentrar funciones urbanas e industriales en la zona de extracción del mineral.",
+            "D": "La desaceleración del proceso de urbanización en las ciudades cupríferas consolidadas por el modelo ISI.",
+            "E": "El establecimiento de los yacimientos mineros en zonas estratégicas para el ejercicio de la soberanía."
+        },
+        "correct_answer": "C",
+        "pic_path": "759568e1-e48d-48eb-8c3b-eddc2e42fae9.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "ba23f39b-f1bb-4ff7-8b06-a2d8c16ba410",
+        "question": "La tabla adjunta muestra la proporción de población urbana que habitaba distintas regiones del planeta en 1950 y 2010 y una proyección para el año 2050. En dicho periodo, África y Asia, a diferencia del resto, experimentarían una tendencia hacia el crecimiento sostenido de la población urbana, fenómeno que entre otros factores se puede explicar por la migración rural-urbana. Al respecto, ¿cuál(es) de las siguientes afirmaciones explica(n) dicha migración? I) La introducción de nuevas tecnologías agrícolas que aumentan la productividad pero utilizan poca mano de obra. II) El proceso de globalización en el que las inversiones financieras y las unidades de producción tienden a concentrarse en las ciudades. III) La mayor diversidad de servicios asistenciales, educacionales y culturales existentes en las ciudades que facilitan la vida cotidiana. ",
+        "options": {
+            "A": "Solo II",
+            "B": "Solo I y II",
+            "C": "Solo I y III",
+            "D": "Solo II y III",
+            "E": "I, II y III"
+        },
+        "correct_answer": "E",
+        "pic_path": "ba23f39b-f1bb-4ff7-8b06-a2d8c16ba410.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "fc922d26-ac06-4d25-ab1d-968007e7fba1",
+        "question": "El cuadro anterior proporciona datos sobre la producción y consumo de agua potable en las regiones chilenas en el año 2004. A partir del análisis de esta información, ¿cuál(es) de las siguientes afirmaciones es (son) correcta(s) sobre la disponibilidad geográfica de este recurso? I) En las regiones áridas del país se registraban situaciones de déficit de agua potable. II) Todas las regiones del país registraban una oferta de agua potable que superaba a la demanda. III) Las regiones con mayor superávit de agua potable correspondían a la Zona Sur.",
+        "options": {
+            "A": "Solo I",
+            "B": "Solo II",
+            "C": "Solo III",
+            "D": "Solo I y II",
+            "E": "Solo II y III"
+        },
+        "correct_answer": "B",
+        "pic_path": "fc922d26-ac06-4d25-ab1d-968007e7fba1.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "919bae90-584f-4943-8610-46ee43cb4744",
+        "question": "El gráfico anterior permite apreciar un aspecto de la evolución del sistema energético chileno en el periodo 2000-2013. En este contexto y de acuerdo con la información del gráfico, ¿cuál(es) de las siguientes afirmaciones respecto de la generación de electricidad, en ese periodo, es (son) correcta(s)? I) El porcentaje de la generación termoeléctrica disminuyó. II) Las fuentes de energía no renovables tendieron a desaparecer. III) La importancia del carbón como fuente de energía aumentó. ",
+        "options": {
+            "A": "Solo I",
+            "B": "Solo III",
+            "C": "Solo I y II",
+            "D": "Solo I y III",
+            "E": "I, II y III"
+        },
+        "correct_answer": "B",
+        "pic_path": "919bae90-584f-4943-8610-46ee43cb4744.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3572fff2-6941-4286-8e98-7931adcbadfd",
+        "question": "Los resultados presentados en la tabla anterior, muestran que un alto porcentaje de encuestados identificó la falta de educación como el factor que más influye en la pobreza de la población en Chile. Al respecto, ¿con qué situación se vincula esta apreciación de la población encuestada?",
+        "options": {
+            "A": "Con las significativas disparidades económicas y sociales que se revelan en el acceso a los distintos niveles educacionales.",
+            "B": "Con la ausencia de políticas públicas orientadas a la ampliación de la cobertura escolar.",
+            "C": "Con la incapacidad del actual sistema económico para disponer de créditos y ayudas para solventar estudios.",
+            "D": "Con la escasez en la oferta de formación técnica que permita ingresar al mundo laboral.",
+            "E": "Con la falta de vacantes en los establecimientos de educación superior."
+        },
+        "correct_answer": "A",
+        "pic_path": "3572fff2-6941-4286-8e98-7931adcbadfd.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "b55b0a9d-0f83-4a6b-9a3b-9363322113dd",
+        "question": "El gráfico adjunto permite apreciar la evolución de cuatro sectores de la economía chilena entre 1940 y 1975, periodo que coincide con la etapa de la historia económica de Chile en el que se aplicó el modelo de Industrialización por Sustitución de Importaciones (ISI). A partir de los datos del gráfico, ¿cuál fue una característica del desarrollo industrial durante esta etapa?",
+        "options": {
+            "A": "Se mantuvo en constante crecimiento.",
+            "B": "Produjo un estancamiento del conjunto de la economía.",
+            "C": "Era incompatible con el desarrollo agrícola.",
+            "D": "Estuvo bajo la influencia del sector minero.",
+            "E": "Fue más dinámico que el resto de los sectores productivos."
+        },
+        "correct_answer": "E",
+        "pic_path": "b55b0a9d-0f83-4a6b-9a3b-9363322113dd.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "fd5ee7a7-8da8-4d24-939e-0d87fc9d36ea",
+        "question": "La tabla adjunta muestra el cambio de uso de suelo ocurrido desde mediados de la década de 1970 en algunas regiones del centro-sur de Chile. En dicho contexto, ¿qué hecho explica esta transformación espacial? ",
+        "options": {
+            "A": "El aumento de los aranceles aduaneros.",
+            "B": "La aplicación de la Reforma Agraria.",
+            "C": "La restricción a la inversión extranjera.",
+            "D": "La creación de áreas silvestres protegidas.",
+            "E": "La política de promoción a las exportaciones."
+        },
+        "correct_answer": "E",
+        "pic_path": "fd5ee7a7-8da8-4d24-939e-0d87fc9d36ea.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "b36f2ec0-42eb-405f-8aaa-0b07791fcdfc",
+        "question": "Desde la década de 1990 los distintos gobiernos de Chile han procurado reducir el porcentaje de personas que viven en condiciones de pobreza e indigencia. En dicho contexto y a partir de los datos del gráfico adjunto, ¿cuál(es) de las siguientes afirmaciones es (son) correcta(s) respecto a las cifras de pobreza e indigencia registradas en zonas urbanas y rurales? I) La pobreza disminuyó significativamente tanto en las zonas rurales como urbanas en los tres años señalados. II) El porcentaje de pobreza es mayor en las zonas urbanas que en las zonas rurales en el año 2013. III) Los niveles de indigencia disminuyeron en las zonas rurales y en las zonas urbanas entre 1990 y 2013.",
+        "options": {
+            "A": "Solo I",
+            "B": "Solo II",
+            "C": "Solo I y III",
+            "D": "Solo II y III",
+            "E": "I, II y III"
+        },
+        "correct_answer": "E",
+        "pic_path": "b36f2ec0-42eb-405f-8aaa-0b07791fcdfc.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "7f77c084-35a9-41ab-94de-08b5b00d9188",
+        "question": "El gráfico anterior muestra el crecimiento poblacional en los países desarrollados, en los países en desarrollo y en el total mundial, desde el año 2000 y su proyección al año 2050. A partir de esta información, ¿cuál(es) de las siguientes tendencias se registra(n) en el periodo considerado? I) Estancamiento del crecimiento demográfico de los países desarrollados debido a la disminución de las tasas de natalidad. II) Disminución de la población de los países en desarrollo producto del aumento de las tasas de mortalidad. III) Decrecimiento del total de la población mundial debido al aporte demográfico de los países desarrollados.",
+        "options": {
+            "A": "Solo I",
+            "B": "Solo II",
+            "C": "Solo III",
+            "D": "Solo I y II",
+            "E": "Solo II y III"
+        },
+        "correct_answer": "A",
+        "pic_path": "7f77c084-35a9-41ab-94de-08b5b00d9188.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "8009c4cb-bd15-4d00-b45a-6f9a0b159b9b",
+        "question": "En el cuadro adjunto se informan los porcentajes de población adulta mayor en algunos países del mundo, según su nivel de desarrollo. En ese sentido, de los siguientes indicadores demográficos, ¿cuál explica los porcentajes de población adulta mayor presentes en ambos grupos de países? ",
+        "options": {
+            "A": "Montos de población inmigrante.",
+            "B": "Esperanza de vida al nacer.",
+            "C": "Índice de masculinidad.",
+            "D": "Volúmenes totales de población.",
+            "E": "Tasas de fertilidad."
+        },
+        "correct_answer": "B",
+        "pic_path": "8009c4cb-bd15-4d00-b45a-6f9a0b159b9b.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "ac2e1be1-c055-4762-8cae-d68fff50973a",
+        "question": "En el planisferio adjunto se representan en color rojo los países cuya población es mayoritariamente hispanoparlante. Analizando la distribución geográfica de la lengua española, es correcto concluir lo siguiente: ",
+        "options": {
+            "A": "Desaparecerá en el futuro cercano a causa de la baja esperanza de vida de la población que lo utiliza.",
+            "B": "Caracteriza a naciones donde al menos el 50% de la población vive en condiciones de extrema pobreza.",
+            "C": "Identifica a países con un alto Producto Interno Bruto y bajos niveles de industrialización.",
+            "D": "Se habla mayoritariamente en poblaciones extraeuropeas que habitan países que fueron colonias.",
+            "E": "Caracteriza a países que basan su economía en producción silvoagropecuaria y en productos alimenticios."
+        },
+        "correct_answer": "D",
+        "pic_path": "ac2e1be1-c055-4762-8cae-d68fff50973a.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "68c654ca-5660-4110-83ee-f31b9264ef0f",
+        "question": "La fotografía muestra un grupo de personas viajando de forma irregular en un tren hacia Estados Unidos que corresponde a un proceso migratorio contemporáneo. Respecto de las características propias de este tipo de flujos migratorios, ¿cuál de las siguientes afirmaciones es correcta?",
+        "options": {
+            "A": "La necesidad de empleos de alta cualificación moviliza grandes volúmenes de población.",
+            "B": "Los derechos de los migrantes son ampliamente reconocidos y respetados internacionalmente.",
+            "C": "El endurecimiento de los controles fronterizos incrementa las dificultades para los migrantes.",
+            "D": "El desempleo de los países receptores atrae población migrante.",
+            "E": "La migración internacional se debe exclusivamente a factores económicos."
+        },
+        "correct_answer": "C",
+        "pic_path": "68c654ca-5660-4110-83ee-f31b9264ef0f.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a15f8523-310e-4894-826c-bc1b5fc8abdf",
+        "question": "De acuerdo a los datos del gráfico anterior y considerando el contexto demográfico y económico chileno durante el periodo referido, ¿cuál(es) de las siguientes afirmaciones es (son) correcta(s)? I) El mayor volumen de población existente en la Región Metropolitana de Santiago impidió el crecimiento de la oferta inmobiliaria en el resto del país. II) En conjunto, las tres regiones aludidas reunían más de la mitad de las viviendas del país en correspondencia con su participación en la población nacional total. III) Por su importancia económica las regiones de Valparaíso y del Biobío en conjunto superaron la construcción de viviendas de la Región Metropolitana. ",
+        "options": {
+            "A": "Solo I",
+            "B": "Solo II",
+            "C": "Solo I y II",
+            "D": "Solo II y III",
+            "E": "I, II y III"
+        },
+        "correct_answer": "B",
+        "pic_path": "a15f8523-310e-4894-826c-bc1b5fc8abdf.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "bde4f77b-e91a-4f96-99af-a5ff5eeb0a50",
+        "question": "En relación con el análisis comparativo que se puede efectuar entre las pirámides de población, es correcto afirmar que la población de Chile entre 1960 y 2001",
+        "options": {
+            "A": "mostró una tendencia a reducir la base de la población más joven y al crecimiento de la tercera edad.",
+            "B": "aumentó en el segmento de población joven y disminuyó en el tramo de la tercera edad.",
+            "C": "presentó un fuerte crecimiento de la población femenina y una disminución de la natalidad.",
+            "D": "tuvo una tendencia a la reducción sistemática de la población de mujeres, en beneficio de un aumento de la población masculina.",
+            "E": "pasó de ser una población en proceso de envejecimiento, a una población concentrada en los tramos juveniles."
+        },
+        "correct_answer": "A",
+        "pic_path": "bde4f77b-e91a-4f96-99af-a5ff5eeb0a50.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d7be1bb6-0ea3-45b6-a7c7-a0af36c15b0c",
+        "question": "El gráfico muestra la evolución de la Tasa Global de Fecundidad en Chile durante la segunda mitad del siglo XX. Considerando los cambios experimentados por la sociedad, su evolución demográfica durante el siglo pasado y la información del gráfico, es correcto señalar que ",
+        "options": {
+            "A": "la disminución en la fecundidad se relaciona con la baja en la calidad de vida de la población urbana y rural.",
+            "B": "entre 1955 y 1965 aumentó la tasa a causa de la aplicación de una economía abierta orientada a las exportaciones.",
+            "C": "a partir de 1960 se aprecia una baja en la fecundidad a causa del incremento en la oferta de empleo informal.",
+            "D": "los niveles más bajos en la fecundidad se relacionan con nuevas modalidades de inserción de la mujer en el mercado laboral.",
+            "E": "entre 1950 y 1970 la fecundidad creció como consecuencia del incremento en los niveles de educación de la población."
+        },
+        "correct_answer": "D",
+        "pic_path": "d7be1bb6-0ea3-45b6-a7c7-a0af36c15b0c.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0c899018-279f-456a-b429-eab91f488286",
+        "question": "El cuadro anterior hace referencia a la cantidad estimada de habitantes del Reino de Chile durante el siglo XVI. De acuerdo a los datos y al contexto del periodo, es correcto inferir que",
+        "options": {
+            "A": "la población española tuvo un alza importante, transformándose en el grupo más populoso.",
+            "B": "la población mestiza aumentó debido a la inserción fundamental del componente social negro.",
+            "C": "los indígenas experimentaron una drástica disminución poblacional por la proliferación de enfermedades y el trabajo forzado.",
+            "D": "la población negra, mulata y zamba, fue numéricamente poco significativa debido a los problemas de aclimatación.",
+            "E": "los indígenas al sur del río Biobío experimentaron un fuerte crecimiento demográfico en todos los años señalados."
+        },
+        "correct_answer": "C",
+        "pic_path": "0c899018-279f-456a-b429-eab91f488286.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a8b63152-e826-419a-9461-58bb256572e1",
+        "question": "La tabla adjunta muestra a los países del mundo que en el año 2008 presentaban los más altos volúmenes de población, junto a una proyección realizada para el año 2050. De su análisis se desprende que se producirán variaciones en el ranking de países más poblados. Estas variaciones se relacionan con aspectos tales como I) la aplicación de políticas de control de natalidad que ha tenido China. II) el aumento de población en algunos países africanos. III) la permanencia del crecimiento natural positivo en la India. ",
+        "options": {
+            "A": "Solo I",
+            "B": "Solo II",
+            "C": "Solo III",
+            "D": "Solo II y III",
+            "E": "I, II y III"
+        },
+        "correct_answer": "E",
+        "pic_path": "a8b63152-e826-419a-9461-58bb256572e1.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f85d1ae9-da4f-4f9d-bce6-2f15cf969d0f",
+        "question": "De acuerdo con las pirámides de población resultantes de los Censos de los años 1992 y 2002 en Chile, que se muestran en la página anterior, es correcto afirmar que ",
+        "options": {
+            "A": "en ambas mediciones la longevidad de los hombres es igual a la de las mujeres.",
+            "B": "se registra una tendencia al envejecimiento de la población.",
+            "C": "la mortalidad de la población se está produciendo a edades más tempranas.",
+            "D": "la natalidad presentó un comportamiento uniforme en el decenio.",
+            "E": "la proporción de hombres y mujeres por rango de edad se revirtió."
+        },
+        "correct_answer": "B",
+        "pic_path": "f85d1ae9-da4f-4f9d-bce6-2f15cf969d0f.png",
+        "category": "地理",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "cc75094c-51ea-43e4-a5a1-80c7f113db65",
+        "question": "El mapa adjunto muestra las centrales nucleares que hay en España. Comente su distribución y localización geográficas y responda a estas preguntas. ¿Qué potencia total aproximada suman las centrales nucleares en España y qué porcentaje aportan a la red eléctrica nacional?",
+        "options": {
+            "A": "3.500 MW / 10%",
+            "B": "5.800 MW / 28%",
+            "C": "7.100 MW / 20%",
+            "D": "9.000 MW / 35%"
+        },
+        "correct_answer": "C",
+        "pic_path": "cc75094c-51ea-43e4-a5a1-80c7f113db65.png",
+        "category": "Examen-Geografia-de-Espana-2024-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e25c159c-94de-44ad-a1c8-df7b23ba4361",
+        "question": "Analice y comente el siguiente bloque-diagrama y responda a las siguientes cuestiones: ¿Qué proceso ha seguido este relieve para su formación?",
+        "options": {
+            "A": "La acumulación de sedimentos marinos en una cuenca tectónica.",
+            "B": "La erosión eólica en zonas desérticas con fuerte insolación.",
+            "C": "La disolución química de la roca caliza por acción del agua ligeramente ácida.",
+            "D": "El arrastre mecánico de fragmentos rocosos por torrentes de alta energía."
+        },
+        "correct_answer": "C",
+        "pic_path": "e25c159c-94de-44ad-a1c8-df7b23ba4361.png",
+        "category": "Examen-Geografia-de-Espana-2024-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f5e48be8-df3a-483e-8655-d2b892648739",
+        "question": "¿Cuál es la diferencia correcta entre dolina, uvala, poljé y sima?",
+        "options": {
+            "A": "Todas son cuevas subterráneas sin diferencias morfológicas significativas.",
+            "B": "La dolina es una depresión pequeña, la uvala es una agrupación de dolinas, el poljé es una gran llanura cerrada, y la sima es una cavidad vertical profunda.",
+            "C": "El poljé y la uvala son términos sinónimos, mientras que la dolina es volcánica y la sima es glaciar.",
+            "D": "La sima es una montaña aislada en forma de torre, mientras que los otros términos son valles fluviales."
+        },
+        "correct_answer": "B",
+        "pic_path": "f5e48be8-df3a-483e-8655-d2b892648739.png",
+        "category": "Examen-Geografia-de-Espana-2024-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "06274195-eee0-40d6-87b7-a9cdc0386715",
+        "question": "¿Cuál de los siguientes lugares es un ejemplo de relieve kárstico en España?",
+        "options": {
+            "A": "Las Tablas de Daimiel, en Castilla-La Mancha.",
+            "B": "El Torcal de Antequera, en Andalucía.",
+            "C": "Las Médulas, en Castilla y León.",
+            "D": "El Parque Nacional de Doñana, en Huelva."
+        },
+        "correct_answer": "B",
+        "pic_path": "06274195-eee0-40d6-87b7-a9cdc0386715.png",
+        "category": "Examen-Geografia-de-Espana-2024-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "55a2a409-5a1a-4589-a407-3a29cead900b",
+        "question": "¿Qué tendencia general se observa entre 2015 y 2022 en el índice de envejecimiento en España?",
+        "options": {
+            "A": "Reducción clara del envejecimiento en las provincias del norte.",
+            "B": "Estabilización del índice en todas las comunidades autónomas.",
+            "C": "Aumento generalizado del envejecimiento, especialmente en zonas del norte y del interior.",
+            "D": "Rejuvenecimiento progresivo del medio rural frente al envejecimiento urbano."
+        },
+        "correct_answer": "C",
+        "pic_path": "55a2a409-5a1a-4589-a407-3a29cead900b.png",
+        "category": "Examen-Geografia-de-Espana-2023-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a8a677ea-1d21-4cb9-a884-971b53ef4ab3",
+        "question": "¿Cuál de las siguientes afirmaciones sobre la evolución demográfica en España según los mapas es correcta?",
+        "options": {
+            "A": "Las provincias costeras del Mediterráneo han rejuvenecido claramente.",
+            "B": "La población infantil ha crecido en las provincias del interior.",
+            "C": "El envejecimiento ha aumentado en provincias con baja natalidad y fuerte despoblación rural.",
+            "D": "La Comunidad de Madrid ha duplicado su índice de envejecimiento."
+        },
+        "correct_answer": "C",
+        "pic_path": "a8a677ea-1d21-4cb9-a884-971b53ef4ab3.png",
+        "category": "Examen-Geografia-de-Espana-2023-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "8bfdf8f0-f8cb-4d01-ab23-c750ffa81384",
+        "question": "¿En qué región de España se localiza típicamente este dominio climático?",
+        "options": {
+            "A": "Valle del Guadalquivir",
+            "B": "Meseta Norte",
+            "C": "Sistema Ibérico",
+            "D": "Galicia y la Cornisa Cantábrica"
+        },
+        "correct_answer": "D",
+        "pic_path": "8bfdf8f0-f8cb-4d01-ab23-c750ffa81384.png",
+        "category": "Examen-Geografia-de-Espana-2022-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d484d206-7ed0-4335-b76c-1a99793572e8",
+        "question": "¿Cuál de las siguientes afirmaciones refleja mejor la influencia de este clima sobre el paisaje y las actividades humanas?",
+        "options": {
+            "A": "La aridez limita la agricultura, que depende totalmente del regadío.",
+            "B": "El clima favorece praderas naturales y pastos, así como la ganadería extensiva.",
+            "C": "El relieve seco da lugar a vegetación escasa y clima estepario.",
+            "D": "La actividad agrícola está muy limitada por las temperaturas extremas."
+        },
+        "correct_answer": "B",
+        "pic_path": "d484d206-7ed0-4335-b76c-1a99793572e8.png",
+        "category": "Examen-Geografia-de-Espana-2022-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "393b23dc-babf-4a6a-a660-20d572be9eeb",
+        "question": "¿Cuál es el emplazamiento histórico de la ciudad de Vitoria?",
+        "options": {
+            "A": "En una penillanura litoral con alta densidad turística.",
+            "B": "Sobre una colina o loma, con valor defensivo.",
+            "C": "En una zona desértica de borde interior, junto a una rambla.",
+            "D": "A orillas de un río navegable para favorecer el comercio marítimo"
+        },
+        "correct_answer": "B",
+        "pic_path": "393b23dc-babf-4a6a-a660-20d572be9eeb.png",
+        "category": "Examen-Geografia-de-Espana-2022-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0090133c-7e07-4fc9-8b53-87e1219a52f7",
+        "question": "¿Cuál de las siguientes sería una solución adecuada para revitalizar el casco antiguo de una ciudad como Vitoria?",
+        "options": {
+            "A": "Prohibir por completo el acceso a turistas para proteger el entorno patrimonial.",
+            "B": "Fomentar la instalación de grandes centros comerciales en plazas medievales.",
+            "C": "Rehabilitación de edificios, mejora del acceso peatonal y promoción cultural del barrio.",
+            "D": "Sustituir todo el mobiliario histórico por estructuras modernas y uniformes."
+        },
+        "correct_answer": "C",
+        "pic_path": "0090133c-7e07-4fc9-8b53-87e1219a52f7.png",
+        "category": "Examen-Geografia-de-Espana-2022-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f8719442-29b3-44e4-a4d1-830fcacbd60c",
+        "question": " ¿Qué tipo de plano urbano predomina en el casco histórico de Vitoria según la imagen aérea?",
+        "options": {
+            "A": "Plano irregular o radiocéntrico, adaptado al relieve inicial.",
+            "B": "Plano ortogonal, característico de la planificación romana.",
+            "C": "Plano lineal, típico de las ciudades industriales del siglo XIX.",
+            "D": "Plano concéntrico con eje axial de tipo hipodámico."
+        },
+        "correct_answer": "A",
+        "pic_path": "f8719442-29b3-44e4-a4d1-830fcacbd60c.png",
+        "category": "Examen-Geografia-de-Espana-2022-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "80f77956-cee8-4315-baee-cc08a7f59955",
+        "question": "¿Qué factores geográficos explican la diversidad climática en España?",
+        "options": {
+            "A": "Uniformidad altitudinal, situación ecuatorial y lluvias monzónicas.",
+            "B": "Latitud, disposición del relieve, influencia marítima y barreras montañosas.",
+            "C": "Proximidad al Trópico de Capricornio y altitud bajo el nivel del mar.",
+            "D": "Altas presiones ecuatoriales y fuertes corrientes polares."
+        },
+        "correct_answer": "B",
+        "pic_path": "80f77956-cee8-4315-baee-cc08a7f59955.png",
+        "category": "Examen-Geografia-de-Espana-2021-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3a99cc91-daa3-45d6-8cdb-21a8587b62b7",
+        "question": "¿Cuál de las siguientes afirmaciones sobre el clima subtropical canario (zona 5) es correcta?",
+        "options": {
+            "A": "Tiene inviernos fríos y veranos suaves debido a su altitud.",
+            "B": "Se caracteriza por una gran amplitud térmica diaria y lluvias frecuentes.",
+            "C": "Presenta temperaturas suaves todo el año y precipitaciones irregulares, con fuerte influencia de los alisios.",
+            "D": "Es un clima seco y frío, sin influencia oceánica."
+        },
+        "correct_answer": "C",
+        "pic_path": "3a99cc91-daa3-45d6-8cdb-21a8587b62b7.png",
+        "category": "Examen-Geografia-de-Espana-2021-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "b1ca1043-fb0a-4c14-9c33-d34dea4d7509",
+        "question": "¿A qué se debe el fuerte repunte de la mortalidad en 1918 visible en la gráfica?",
+        "options": {
+            "A": "A la Guerra Civil española.",
+            "B": "A una gran crisis agrícola que provocó hambruna generalizada.",
+            "C": "A la pandemia de gripe conocida como “gripe española”.",
+            "D": "A una ola de frío extremo que duró todo el invierno."
+        },
+        "correct_answer": "C",
+        "pic_path": "b1ca1043-fb0a-4c14-9c33-d34dea4d7509.png",
+        "category": "Examen-Geografia-de-Espana-2021-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "07c0077b-1901-4edf-87f5-267652b22eab",
+        "question": "¿A qué se puede atribuir el descenso de la natalidad en España a partir de 1973?",
+        "options": {
+            "A": "A la reactivación del crecimiento rural y la emigración masiva al campo.",
+            "B": "A la incorporación masiva de la mujer al mundo laboral y el uso de métodos anticonceptivos.",
+            "C": "Al aumento de la fecundidad durante el baby boom.",
+            "D": "A la llegada de población joven inmigrante con altas tasas de natalidad."
+        },
+        "correct_answer": "B",
+        "pic_path": "07c0077b-1901-4edf-87f5-267652b22eab.png",
+        "category": "Examen-Geografia-de-Espana-2021-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "29a32660-1be8-4b45-99f8-58bb35a4e279",
+        "question": "Pirámides de población: España 1900 vs. 2015: ¿Cuál es la razón más probable de la reducción de población entre 0 y 14 años en 2015?",
+        "options": {
+            "A": "El aumento de la mortalidad infantil.",
+            "B": "El crecimiento de las zonas rurales frente a las urbanas.",
+            "C": "La disminución de la natalidad debido a cambios sociales, económicos y culturales.",
+            "D": "El envejecimiento biológico acelerado de los adolescentes."
+        },
+        "correct_answer": "C",
+        "pic_path": "29a32660-1be8-4b45-99f8-58bb35a4e279.png",
+        "category": "Examen-Geografia-de-Espana-2020-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "66a4d628-db35-43cb-897e-33c15da1da15",
+        "question": "¿Cuál de las siguientes es una característica principal del dominio calcáreo (color amarillo)?",
+        "options": {
+            "A": "Predomina en zonas volcánicas con actividad reciente.",
+            "B": "Forma paisajes llanos, de baja altitud, con materiales graníticos.",
+            "C": "Se caracteriza por la formación de relieves kársticos (dolinas, simas, poljés).",
+            "D": "Tiene origen exclusivamente sedimentario marino del terciario."
+        },
+        "correct_answer": "C",
+        "pic_path": "66a4d628-db35-43cb-897e-33c15da1da15.png",
+        "category": "Examen-Geografia-de-Espana-2020-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0b7b9c21-71fe-45aa-8280-af4d441b5a79",
+        "question": "¿Qué zona de la Península Ibérica se asocia a las penillanuras silíceas?",
+        "options": {
+            "A": "Valle del Ebro",
+            "B": "Sistema Bético",
+            "C": "Meseta Norte (Zamora, Salamanca, Cáceres)",
+            "D": "Pirineos centrales"
+        },
+        "correct_answer": "C",
+        "pic_path": "0b7b9c21-71fe-45aa-8280-af4d441b5a79.png",
+        "category": "Examen-Geografia-de-Espana-2020-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "1f5aa9cd-aaa9-4d20-9f69-2e1bf620d4bb",
+        "question": "¿Qué tipo de materiales predominan en las Islas Canarias según el mapa?",
+        "options": {
+            "A": "Materiales calizos formados en el terciario.",
+            "B": "Rocas graníticas propias del dominio silíceo.",
+            "C": "Materiales arcillosos propios de las depresiones internas.",
+            "D": "Materiales volcánicos con origen magmático."
+        },
+        "correct_answer": "D",
+        "pic_path": "1f5aa9cd-aaa9-4d20-9f69-2e1bf620d4bb.png",
+        "category": "Examen-Geografia-de-Espana-2020-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "1a1dc5e5-8731-449d-a164-abd0b12cdcf8",
+        "question": "¿Cuál de las siguientes es una característica típica de esta tipología urbana?",
+        "options": {
+            "A": "Calles estrechas, irregulares y adaptadas al relieve.",
+            "B": "Parcelas de forma radial con densidad muy baja.",
+            "C": "Amplias avenidas en cuadrícula, chaflanes y manzanas ventiladas.",
+            "D": "Núcleos urbanos cerrados sin conexión con barrios exteriores."
+        },
+        "correct_answer": "C",
+        "pic_path": "1a1dc5e5-8731-449d-a164-abd0b12cdcf8.png",
+        "category": "Examen-Geografia-de-Espana-2019-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "9227a6ca-9245-40ba-b88b-1da9d6626a8e",
+        "question": "¿Cuál sería una localización geográfica probable para este observatorio?",
+        "options": {
+            "A": "Bilbao, en el norte peninsular.",
+            "B": "Sevilla, en el sur peninsular.",
+            "C": "Santa Cruz de Tenerife, en Canarias.",
+            "D": "Zaragoza, en el valle del Ebro."
+        },
+        "correct_answer": "B",
+        "pic_path": "9227a6ca-9245-40ba-b88b-1da9d6626a8e.png",
+        "category": "Examen-Geografia-de-Espana-2019-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a8c7da6c-24ae-4236-a27c-055c13a55cf1",
+        "question": "¿Cuál de los siguientes sectores del plano corresponde a la ciudad vieja o preindustrial de Barcelona?",
+        "options": {
+            "A": "La zona cuadriculada y simétrica al noreste.",
+            "B": "El área portuaria visible al sur del plano.",
+            "C": "El núcleo denso e irregular próximo al centro del plano, hacia el suroeste.",
+            "D": "El sector con grandes avenidas diagonales en forma de estrella."
+        },
+        "correct_answer": "C",
+        "pic_path": "a8c7da6c-24ae-4236-a27c-055c13a55cf1.png",
+        "category": "Examen-Geografia-de-Espana-2018-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0c23e1ad-1e73-48ef-9faa-32cb613de28d",
+        "question": "¿Qué diferencia principal presenta el Ensanche respecto a la ciudad vieja?",
+        "options": {
+            "A": "Calles estrechas, sin planificación, con origen medieval.",
+            "B": "Estructura ortogonal, manzanas amplias y chaflanes en las esquinas.",
+            "C": "Presencia de murallas defensivas y tejido urbano concéntrico.",
+            "D": "Trazado basado en colinas y cursos de agua naturales."
+        },
+        "correct_answer": "B",
+        "pic_path": "0c23e1ad-1e73-48ef-9faa-32cb613de28d.png",
+        "category": "Examen-Geografia-de-Espana-2018-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "32968046-7e73-44c8-989d-63a7468676f2",
+        "question": "¿En qué sector de España se situaría más probablemente esta estación termopluviométrica?",
+        "options": {
+            "A": "Galicia o costa cantábrica",
+            "B": "Islas Canarias orientales",
+            "C": "Meseta Norte o interior peninsular",
+            "D": "Cataluña litoral"
+        },
+        "correct_answer": "C",
+        "pic_path": "32968046-7e73-44c8-989d-63a7468676f2.png",
+        "category": "Examen-Geografia-de-Espana-2018-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f15e08f1-3329-4e57-acd2-0930da9d9c50",
+        "question": "¿Qué papel ha jugado el turismo en el crecimiento del sector terciario español?",
+        "options": {
+            "A": "Ninguno, ya que es parte del sector primario.",
+            "B": "Muy importante, por ser un motor de empleo y servicios desde mediados del siglo XX.",
+            "C": "Poco relevante, ya que se limita a temporadas cortas del año.",
+            "D": "Ha frenado el crecimiento del sector al generar empleo estacional poco cualificado."
+        },
+        "correct_answer": "B",
+        "pic_path": "f15e08f1-3329-4e57-acd2-0930da9d9c50.png",
+        "category": "Examen-Geografia-de-Espana-2017-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "35e6bb15-661e-45fc-9d21-85997a3e97f3",
+        "question": "¿Cuál de las siguientes afirmaciones es correcta respecto al turismo y el sector terciario en España?",
+        "options": {
+            "A": "El turismo no pertenece al sector terciario",
+            "B": "El turismo ha sido un motor fundamental del desarrollo terciario desde mediados del siglo XX",
+            "C": "El turismo ha reducido el peso del sector terciario debido a su estacionalidad",
+            "D": "El turismo es parte del sector primario por su relación con el territorio"
+        },
+        "correct_answer": "B",
+        "pic_path": "35e6bb15-661e-45fc-9d21-85997a3e97f3.png",
+        "category": "Examen-Geografia-de-Espana-2017-Escuela-PCE",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "82074a36-f670-4b8c-8445-265551fdc435",
+        "question": "¿Cuál es una característica general de la inmigración en España en el siglo XXI?",
+        "options": {
+            "A": "Concentración en zonas rurales despobladas",
+            "B": "Predominio de migrantes europeos del este en zonas del norte",
+            "C": "Elevada proporción de población asiática en la meseta",
+            "D": "Asentamiento prioritario en áreas agrícolas y turísticas del litoral"
+        },
+        "correct_answer": "D",
+        "pic_path": "82074a36-f670-4b8c-8445-265551fdc435.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0aeb92ed-c3ba-4b5a-bb17-59b40fda0217",
+        "question": "¿Qué cultivos predominan generalmente en las zonas de regadío en el valle del Guadalquivir?",
+        "options": {
+            "A": "Cultivos leñosos (olivo, viñedo)",
+            "B": "Barbechos",
+            "C": "Cultivos herbáceos (cereales, hortalizas)",
+            "D": "Ganadería intensiva"
+        },
+        "correct_answer": "C",
+        "pic_path": "0aeb92ed-c3ba-4b5a-bb17-59b40fda0217.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "21831c3d-1af6-4cc2-9d82-e7ff2a697de5",
+        "question": "¿Cuál es una ventaja clave del regadío en la agricultura española?",
+        "options": {
+            "A": "Reduce la dependencia del turismo",
+            "B": "Aumenta la productividad y permite cultivos intensivos en zonas áridas",
+            "C": "Disminuye el uso de fertilizantes",
+            "D": "Promueve la emigración del campo a la ciudad"
+        },
+        "correct_answer": "B",
+        "pic_path": "21831c3d-1af6-4cc2-9d82-e7ff2a697de5.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a257ee4c-73c3-48a0-bc55-ff6e8e353795",
+        "question": "El régimen nivopluvial se localiza principalmente en…",
+        "options": {
+            "A": "Las cuencas del sur y sureste peninsular",
+            "B": "Las islas Canarias",
+            "C": "Las cuencas del Pirineo y Cordillera Cantábrica",
+            "D": "El valle del Guadalquivir"
+        },
+        "correct_answer": "C",
+        "pic_path": "a257ee4c-73c3-48a0-bc55-ff6e8e353795.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "309bb290-2f10-430d-a652-06de2abc0775",
+        "question": "¿Qué característica define a los ríos de régimen atlántico respecto a los mediterráneos?",
+        "options": {
+            "A": "Mayor regularidad en el caudal anual",
+            "B": "Mayor pendiente del cauce",
+            "C": "Fuerte estacionalidad con lluvias en verano",
+            "D": "Son ríos de corto recorrido"
+        },
+        "correct_answer": "A",
+        "pic_path": "309bb290-2f10-430d-a652-06de2abc0775.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "2dff4698-c5f4-4c2c-8c5f-99f5c4498596",
+        "question": "¿Por qué las Islas Canarias constituyen una región biogeográfica especial?",
+        "options": {
+            "A": "Por su proximidad a África y la existencia de especies endémicas",
+            "B": "Porque comparten flora con la región eurosiberiana",
+            "C": "Porque tienen un clima continental extremo",
+            "D": "Porque su fauna proviene del norte peninsular"
+        },
+        "correct_answer": "A",
+        "pic_path": "2dff4698-c5f4-4c2c-8c5f-99f5c4498596.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "9b1d93f0-8671-4bee-ab68-5760a90a1838",
+        "question": "¿Qué región biogeográfica domina en el norte de la península ibérica?",
+        "options": {
+            "A": "Mediterránea",
+            "B": "Canaria",
+            "C": "Eurosiberiana",
+            "D": "Atlántica"
+        },
+        "correct_answer": "C",
+        "pic_path": "9b1d93f0-8671-4bee-ab68-5760a90a1838.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d7f5b0d1-741f-4adb-a4ba-13e75c1066bc",
+        "question": "¿Cuál de estas combinaciones explica mejor las diferencias de precipitaciones entre el noroeste y el sureste de la península?",
+        "options": {
+            "A": "El noroeste está más cerca del mar Mediterráneo, por lo que llueve más.",
+            "B": "El sureste está en el interior peninsular, protegido por montañas.",
+            "C": "El noroeste recibe frentes atlánticos constantes y tiene relieve elevado, mientras que el sureste está bajo la sombra orográfica.",
+            "D": "El sureste es más lluvioso por sus altas temperaturas y altitud."
+        },
+        "correct_answer": "C",
+        "pic_path": "d7f5b0d1-741f-4adb-a4ba-13e75c1066bc.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d422cdae-a705-41b8-bc24-8b690bce9fe8",
+        "question": "¿Qué unidad del relieve representa el número 1 en el mapa?",
+        "options": {
+            "A": "Valle del Ebro",
+            "B": "Meseta Norte",
+            "C": "Depresión del Guadalquivir",
+            "D": "Meseta Sur"
+        },
+        "correct_answer": "B",
+        "pic_path": "d422cdae-a705-41b8-bc24-8b690bce9fe8.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a910b967-3eb5-4bd7-8a85-535a6b54d439",
+        "question": "¿Qué diferencia principal existe entre el envejecimiento en el norte y en el sur de España?",
+        "options": {
+            "A": "El norte presenta una población más joven debido al clima más frío.",
+            "B": "El sur tiene un envejecimiento más acusado por la emigración de jóvenes.",
+            "C": "El norte muestra un índice más elevado por menor natalidad y despoblación rural.",
+            "D": "El sur muestra mayores índices de envejecimiento debido al turismo."
+        },
+        "correct_answer": "C",
+        "pic_path": "a910b967-3eb5-4bd7-8a85-535a6b54d439.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "b2ca108c-8587-4712-ab03-2456041d9424",
+        "question": "En las provincias del eje mediterráneo, ¿qué sector consume más energía?",
+        "options": {
+            "A": "Agricultura y ganadería",
+            "B": "Industria extractiva",
+            "C": "Servicios",
+            "D": "Industria manufacturera"
+        },
+        "correct_answer": "D",
+        "pic_path": "b2ca108c-8587-4712-ab03-2456041d9424.png",
+        "category": "Examen de Selectividad de Geografía 2024",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "6b05409c-ec24-4ad3-b7a7-ce53f9f1dfbd",
+        "question": "На метеостанциях 1, 2 и 3 одновременно проводят измерения содержания \nводяного пара в 1 м3 воздуха и определяют относительную влажность \nвоздуха. Расположите эти метеостанции в порядке закономерного \nповышения температуры воздуха на них в момент проведения указанных \nизмерений (от наиболее низкой к наиболее высокой). ",
+        "options": {
+            "A": "123",
+            "B": "132",
+            "C": "321",
+            "D": "312"
+        },
+        "correct_answer": "B",
+        "pic_path": "6b05409c-ec24-4ad3-b7a7-ce53f9f1dfbd.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "2b1bfc89-fa7f-420d-8c48-a0618ad02386",
+        "question": "В пунктах 1, 2 и 3 были одновременно проведены измерения температуры \nи относительной влажности воздуха. Полученные значения показаны \nв таблице. Расположите эти пункты в порядке повышения в них показателя \nабсолютной влажности воздуха (от наиболее низкой к наиболее высокой). ",
+        "options": {
+            "A": "123",
+            "B": "132",
+            "C": "321",
+            "D": "312"
+        },
+        "correct_answer": "C",
+        "pic_path": "2b1bfc89-fa7f-420d-8c48-a0618ad02386.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "6df3abef-88ed-433b-a350-8c43a6247d38",
+        "question": "Установите соответствие между заливом и его обозначением на карте мира: \nк каждому элементу первого столбца подберите соответствующий элемент \nиз второго столбца. ",
+        "options": {
+            "A": "А :1 Б :2 В :3",
+            "B": "А :1 Б :3 В :4",
+            "C": "А :2 Б :4 В :3" ,
+            "D": "А :2 Б :4 В :1"
+        },
+        "correct_answer": "D",
+        "pic_path": "6df3abef-88ed-433b-a350-8c43a6247d38.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "c18d4ed5-cc30-4a2e-ba34-93a24be6b303",
+        "question": "Расположите перечисленные части Мирового океана с запада на восток в том \nпорядке, в котором они расположены на карте мира и в справочных \nматериалах, начиная с самой западной.\n1) Аравийское море \n2) Бенгальский залив \n3) Гвинейский залив",
+        "options": {
+            "A": "123",
+            "B": "132",
+            "C": "321",
+            "D": "312"
+        },
+        "correct_answer": "D",
+        "pic_path": "c18d4ed5-cc30-4a2e-ba34-93a24be6b303.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "c12a3815-627a-40a4-91be-13817b3f04c3",
+        "question": "Установите соответствие между страной и диаграммой, отражающей \nраспределение её экономически активного населения по секторам \nэкономики: к каждой позиции, данной в первом столбце, подберите \nсоответствующую позицию из второго столбца. ",
+        "options": {
+            "A": "А :1 Б :2 В :3",
+            "B": "А :1 Б :3 В :4",
+            "C": "А :2 Б :4 В :3" ,
+            "D": "А :2 Б :4 В :1"
+        },
+        "correct_answer": "B",
+        "pic_path": "c12a3815-627a-40a4-91be-13817b3f04c3.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a5f07111-9c5c-454c-bb4c-33e64fd1b42a",
+        "question": "На основе анализа данных приведённой ниже таблицы укажите все регионы, \nв которых в период с 2018 по 2020 гг. ежегодно увеличивались объёмы \nсельскохозяйственного производства. ",
+        "options": {
+            "A": "123",
+            "B": "132",
+            "C": "321",
+            "D": "312"
+        },
+        "correct_answer": "D",
+        "pic_path": "a5f07111-9c5c-454c-bb4c-33e64fd1b42a.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f3368f92-f462-4d97-8c06-505f1121d29e",
+        "question": "С помощью карты сравните значения средних многолетних максимумов \nтемпературы воздуха в точках, обозначенных на карте цифрами 1, 2 и 3. \nРасположите точки в порядке повышения этих значений. ",
+        "options": {
+            "A": "123",
+            "B": "132",
+            "C": "321",
+            "D": "312"
+        },
+        "correct_answer": "B",
+        "pic_path": "f3368f92-f462-4d97-8c06-505f1121d29e.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "162e9251-d0b1-48bc-9e09-2594ac9d97c9",
+        "question": "Прямая трансляция парада на Красной площади в Москве 9 мая начинается \nв 10 ч по московскому времени. Используя карту, определите, во сколько \nчасов по местному времени эта трансляция начнётся в Красноярске. Ответ запишите в виде числа.",
+        "options": {
+            "A": "12ч.",
+            "B": "13ч.",
+            "C": "14ч.",
+            "D": "15ч."
+        },
+        "correct_answer": "C",
+        "pic_path": "162e9251-d0b1-48bc-9e09-2594ac9d97c9.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "1403ef51-f4a8-4ebb-8d90-939d5786f2c6",
+        "question": "Используя данные диаграммы, определите величину миграционного \nприроста населения Брянской области в 2017 г. Ответ запишите в виде числа \n(по образцу, указанному в инструкции по выполнению работы).",
+        "options": {
+            "A": "-2,4 тыс. человек.",
+            "B": "2,4 тыс. человек.",
+            "C": "-2,9 тыс. человек.",
+            "D": "2,9 тыс. человек."
+        },
+        "correct_answer": "A",
+        "pic_path": "1403ef51-f4a8-4ebb-8d90-939d5786f2c6.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "eac3f927-7784-4b2b-8950-e75b4ca7255f",
+        "question": "На численность населения субъектов Российской Федерации заметное \nвлияние оказывают как естественное движение населения, так и миграции. \nИспользуя данные таблицы, определите величину миграционного прироста \nнаселения Алтайского края в 2020 г. ",
+        "options": {
+            "A": "2619 человек(а).",
+            "B": "- 2619 человек(а).",
+            "C": "- 4020 человек(а).",
+            "D": "4020 человек(а)."
+        },
+        "correct_answer": "B",
+        "pic_path": "eac3f927-7784-4b2b-8950-e75b4ca7255f.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f68858af-baf7-493e-8adf-5006fec1d66b",
+        "question": "Расположите перечисленные страны в порядке возрастания в них доли \nгородского населения в общей численности населения, начиная со страны \nс наименьшим значением этого показателя. \n1) Гайана \n2) Эквадор \n3) Колумбия ",
+        "options": {
+            "A": "123",
+            "B": "231",
+            "C": "321",
+            "D": "132"
+        },
+        "correct_answer": "A",
+        "pic_path": "f68858af-baf7-493e-8adf-5006fec1d66b.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "644c6a08-2aa3-4ad2-80ac-732df947eddc",
+        "question": "Сергею необходимо составить карту «Африка. Доля городского населения», \nиспользуя такую же интервальную шкалу, как на приведённой выше карте \nЮжной Америки. \nУстановите соответствие между страной и условным обозначением, которое \nнеобходимо использовать для отображения доли городского населения \nкаждой из перечисленных стран на карте: к каждой позиции, данной \nв первом столбце, подберите соответствующую позицию из второго столбца.",
+        "options": {
+            "A": "А :1 Б :2 В :3",
+            "B": "А :1 Б :3 В :4",
+            "C": "А :2 Б :4 В :3" ,
+            "D": "А :2 Б :4 В :1"
+        },
+        "correct_answer": "C",
+        "pic_path": "644c6a08-2aa3-4ad2-80ac-732df947eddc.png",
+        "category": "ГГ-11 ЕГЭ 2023 ДЕМО（地理）",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d5cb0fce-1d61-4c5e-b3ff-9e5fdf912b2d",
+        "question": "На метеостанциях 1, 2 и 3 одновременно проводят измерения содержания \nводяного пара в 1 м3 воздуха и определяют относительную влажность \nвоздуха. Полученные значения показаны в таблице. Расположите эти \nметеостанции в порядке повышения температуры воздуха на них в момент \nпроведения указанных измерений (от наиболее низкой к наиболее высокой). ",
+        "options": {
+            "A": "123",
+            "B": "231",
+            "C": "321",
+            "D": "132"
+        },
+        "correct_answer": "C",
+        "pic_path": "d5cb0fce-1d61-4c5e-b3ff-9e5fdf912b2d.png",
+        "category": "ГГ-11 ЕГЭ 2021 ДЕМО(地理)",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3e4f4608-715f-49e2-a330-0f48682678b8",
+        "question": "Определите по карте расстояние на местности по прямой от родника до дома \nлесника. Полученный результат округлите до десятков метров. Ответ \nзапишите в виде числа.",
+        "options": {
+            "A": "250",
+            "B": "360",
+            "C": "170"
+        },
+        "correct_answer": "A",
+        "pic_path": "3e4f4608-715f-49e2-a330-0f48682678b8.png",
+        "category": "ГГ-11 ЕГЭ 2021 ДЕМО(地理)",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "bdc78be0-4a32-47df-8bcf-7d25859ba6e2",
+        "question": "В 2019 г. численность населения Сингапура составляла 5,9 млн. Объясните, почему в Сингапуре в ближайшие 30 лет при сохранении \nсуммарного коэффициента рождаемости таким же, как в 2019 г., \nпрогнозируется уменьшение \nрождаемости, \nувеличение \nсмертности и \nестественная убыль населения. Укажите две причины.\nчеловек, рождаемость – 8‰, смертность – 5‰. При этом значение \nсуммарного коэффициента рождаемости (число новорождённых, \nприходящихся на одну женщину в детородном (от 15 до 49 лет) \nвозрасте) составляло 1,21. Ниже приводится половозрастная пирамида \nСингапура в 2019 г.",
+        "options": {
+            "A": "В стране ожидается рост числа трудовых мигрантов, что снизит рождаемость.",
+            "B": "Женщины начнут рожать в более позднем возрасте, что увеличит смертность.",
+            "C": "В детородный возраст вступит малочисленное поколение, а доля пожилых людей возрастёт.",
+            "D": "Увеличится рождаемость среди молодёжи, но это не повлияет на демографию.",
+            "E": "Повысится уровень жизни, что приведёт к сокращению численности населения."
+        },
+        "correct_answer": "C",
+        "pic_path": "bdc78be0-4a32-47df-8bcf-7d25859ba6e2.png",
+        "category": "ГГ-11 ЕГЭ 2021 ДЕМО(地理)",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "b0fc1944-e91d-40ee-9135-4c2eb8a4889b",
+        "question": "Определите, в пределах какого из участков, обозначенных на фрагменте \nтопографической карты цифрами 1, 2 и 3, существует наибольшая опасность \nразвития водной эрозии почвенного слоя. Для обоснования Вашего ответа \nприведите два довода.",
+        "options": {
+            "A": "Участок 1 — на склоне средней крутизны, без водотоков",
+            "B": "Участок 2 — на крутом склоне, прилегающем к оврагу с водотоком",
+            "C": "Участок 3 — на равнинной местности с застройкой",
+            "D": "Опасность одинакова на всех трёх участках"
+        },
+        "correct_answer": "B",
+        "pic_path": "b0fc1944-e91d-40ee-9135-4c2eb8a4889b.png",
+        "category": "ГГ-11 ЕГЭ 2021 ДЕМО(地理)",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e9ab328c-5e4e-4dd7-ae03-f79f6e06c2f7",
+        "question": "Используя данные таблицы, приведённой ниже, сравните доли сельскохозяйственного населения (людей, занятых в сельском хозяйстве, и членов их семей, находящихся на их иждивении) в общей численности населения и доли сельского хозяйства в ВВП Алжира и Армении. Сделайте вывод о том, в какой из этих стран сельское хозяйство играло бóльшую роль в экономике в 2014 г. Для обоснования Вашего ответа запишите необходимые числовые данные или вычисления",
+        "options": {
+            "A": "В Армении, так как доля сельского хозяйства в ВВП выше, чем в Алжире",
+            "B": "В Алжире, так как численность сельскохозяйственного населения выше в абсолютных значениях",
+            "C": "В Армении, так как и доля сельхознаселения, и доля сельского хозяйства в ВВП выше",
+            "D": "В Алжире, так как и доля сельхознаселения, и доля сельского хозяйства в ВВП выше"
+        },
+        "correct_answer": "C",
+        "pic_path": "e9ab328c-5e4e-4dd7-ae03-f79f6e06c2f7.png",
+        "category": "ГГ-11 ЕГЭ 2021 ДЕМО(地理)",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "23fd8b69-cc5d-4a3d-ad7d-26dfdc2b9b04",
+        "question": "ЙспользуЯ данные таблицы, определите показатель естественного приростанaceлeниЯ(в %)в 2016 г.длЯ Peспублики ашкopтocтaн. pи pacЧěтaхиспользуйте показатель среднегодовой Численности населениЯЗапишитезадаЧи.олуЧенHый еульатокрулитеестхолейpemeниeпроMиллe.",
+        "options": {
+            "A": "0,8‰",
+            "B": "0,6‰",
+            "C": "0,9‰",
+            "D": "1,2‰"
+        },
+        "correct_answer": "A",
+        "pic_path": "23fd8b69-cc5d-4a3d-ad7d-26dfdc2b9b04.png",
+        "category": "ГГ-11 ЕГЭ 2021 ДЕМО(地理)",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "3ad6d0c5-dc1f-4d8f-951a-03d15651e981",
+        "question": "Ha оcновe анализа данных приведěнной ниЖе таÔлицы укаЖите все регионыB KOTорых  д  2019 0 202 г. еЖегодно увелиЧивались обьмыдобыЧи полезных ископаемых.Запишите цифры, под которыми указаны 9TиpеГИOHЫ.",
+        "options": {
+            "A": "23",
+            "B": "24",
+            "C": "25"
+        },
+        "correct_answer": "A",
+        "pic_path": "3ad6d0c5-dc1f-4d8f-951a-03d15651e981.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "28843dd9-9178-485f-be0f-06f4505237eb",
+        "question": "С помощью карты сравните среднегодовое количество атмосферных осадков \nв точках, обозначенных на карте цифрами 1, 2 и 3. Расположите эти точки \nв порядке увеличения количества осадков, выпадающих в них",
+        "options": {
+            "A": "2 – 3 – 1",
+            "B": "3 – 2 – 1",
+            "C": "1 – 2 – 3",
+            "D": "3 – 1 – 2"
+        },
+        "correct_answer": "A",
+        "pic_path": "28843dd9-9178-485f-be0f-06f4505237eb.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "bce8fa98-2d4e-46fa-a667-5dd94dc88240",
+        "question": "С помощью карты сравните абсолютные высоты точек, обозначенных \nна карте цифрами 1, 2 и 3. Расположите эти точки в порядке увеличения \nих абсолютных высот.",
+        "options": {
+            "A": "1 – 2 – 3",
+            "B": "2 – 1 – 3",
+            "C": "2 – 3 – 1",
+            "D": "3 – 2 – 1"
+        },
+        "correct_answer": "B",
+        "pic_path": "bce8fa98-2d4e-46fa-a667-5dd94dc88240.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "c3b65042-0e9d-45ac-bdd5-5a456079d810",
+        "question": "Прямая трансляция матча за Суперкубок России между футбольными \nкомандами «Зенит» и «Локомотив» началась 6 июля 2019 г. в 19 ч \nпо московскому времени. Используя карту, определите, во сколько часов \nпо местному времени эта трансляция началась в Ханты-Мансийске.",
+        "options": {
+            "A": "В 18:00",
+            "B": "В 19:00",
+            "C": "В 21:00",
+            "D": "В 22:00"
+        },
+        "correct_answer": "C",
+        "pic_path": "c3b65042-0e9d-45ac-bdd5-5a456079d810.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "8535b49e-e0ee-4a9a-9bfa-669c4abe498a",
+        "question": "Используя данные диаграммы, определите значение показателя \nмиграционного прироста населения Республики Башкортостан в 2020 г. \nОтвет запишите в виде числа (по образцу, указанному в инструкции по \nвыполнению работы).",
+        "options": {
+            "A": "–5,5",
+            "B": "–4,9",
+            "C": "+4,9",
+            "D": "+5,5"
+        },
+        "correct_answer": "B",
+        "pic_path": "8535b49e-e0ee-4a9a-9bfa-669c4abe498a.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "9c11b0c1-761b-4bb5-9f77-a9d679b38973",
+        "question": "На численность населения субъектов Российской Федерации заметное \nвлияние оказывают как естественное движение населения, так и миграции. \nИспользуя данные таблицы, определите значение показателя миграционного \nприроста населения Республики Хакасия в 2021 г.",
+        "options": {
+            "A": "–432",
+            "B": "–1036",
+            "C": "+185",
+            "D": "+1247"
+        },
+        "correct_answer": "A",
+        "pic_path": "9c11b0c1-761b-4bb5-9f77-a9d679b38973.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0016c9d0-390a-48ba-8348-3aa8b592a310",
+        "question": "Сергею необходимо составить карту «Африка. Доля городского населения», \nиспользуя такую же интервальную шкалу, как на приведённой выше карте \nЮжной Америки. \nУстановите соответствие между страной и условным обозначением, которое \nнеобходимо использовать для отображения доли городского населения \nкаждой из перечисленных стран на карте: к каждой позиции, данной \nв первом столбце, подберите соответствующую позицию из второго столбца",
+        "options": {
+            "A": "A–1, Б–5, В–2",
+            "B": "A–2, Б–3, В–1",
+            "C": "A–1, Б–4, В–2",
+            "D": "A–1, Б–5, В–3"
+        },
+        "correct_answer": "C",
+        "pic_path": "0016c9d0-390a-48ba-8348-3aa8b592a310.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "53c1209e-51df-47b3-9dbe-47d44ac55f7d",
+        "question": "B 2015 г. pЯДOM C гOрOдоM Cвободным,располоЖенным на Tранссибирскоймагистрали в 10 км от лаговешенска,наЧалось строительство AмурсKогогазoперeрабатывашero зaвoдa (3).Ha первом этапе были построены подьездные ути,пpиЧaл нa peкe 3eea зaтeм yЖе доставлено и установлено самое крупногабаритное оборудованиедлЯ завода - три колонны выделениЯ метана, каЖдаЯ весом в 14 т и длиной87 M. Завод был сдан в эксплуатаци в 2021 r.IakxeстроитеЛьствоЖеле3H0ДODOЖHOГOзaвepmeHoот Tранссибирской магистрали до завода протЯЖÄнHосTь 17,5 KM.Зaвoд перерабатывает природный ,добываемый а местороЖдениЯхЙрKуTсKОй обласTи и ЯкуTии.ГаЗ этих местороЖдений многокомпонентныйИ H AMуpCKOM 3 из него ивлекатсЯ наиболее ценные компонентыпропан, бутан и гелий. Чишенный метан экспортируетсЯ в Kитай, а в страныATP  й т т оствисЖЖенныдорогостоЯших пропана,бутана(д0 5 млн т в ГOд)и гелиЯ (д0 60 MлH MB ГOД).\nпeperoнa",
+        "options": {
+            "A": "Наличие крупных нефтяных месторождений поблизости и выход к Охотскому морю",
+            "B": "Близость к международной границе и развитое железнодорожное сообщение",
+            "C": "Развитая речная сеть и высокая плотность населения",
+            "D": "Удалённость от промышленных центров и слабое развитие транспорта"
+        },
+        "correct_answer": "B",
+        "pic_path": "53c1209e-51df-47b3-9dbe-47d44ac55f7d.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "00083ece-2b60-4451-8b97-3b94e61917b7",
+        "question": "Определите, в каком из пунктов, обозначенных на карте мира буквами А и Б, \nв декабре количество суммарной солнечной радиации на 1 см2 земной \nповерхности будет больше. Для обоснования Вашего ответа приведите два \nдовода.",
+        "options": {
+            "A": "В пункте А, так как он ближе к экватору и дольше световой день",
+            "B": "В пункте Б, так как он находится в летнем полушарии и ближе к зоне максимального солнечного освещения",
+            "C": "В пункте А, так как он находится в северном полушарии, где в декабре больше солнечной радиации",
+            "D": "В пункте Б, так как он выше над уровнем моря и получает больше радиации в течение года"
+        },
+        "correct_answer": "B",
+        "pic_path": "00083ece-2b60-4451-8b97-3b94e61917b7.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f7099b4a-13ac-425e-938b-687678336d12",
+        "question": "Расположите перечисленные страны в порядке возрастания в них доли \nгородского населения в общей численности населения, начиная со страны \nс наименьшим значением этого показателя.  1) Гайана \n2) Эквадор \n3) Колумбия",
+        "options": {
+            "A": "123",
+            "B": "213",
+            "C": "312",
+            "D": "321"
+        },
+        "correct_answer": "A",
+        "pic_path": "f7099b4a-13ac-425e-938b-687678336d12.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0fa14387-f435-4e04-b424-1bcbf5fee555",
+        "question": "Установите соответствие между страной и диаграммой, отражающей \nраспределение её экономически активного населения по секторам \nэкономики: к каждой позиции, данной в первом столбце, подберите \nсоответствующую позицию из второго столбца",
+        "options": {
+            "A": "А–1, Б–3, В–2",
+            "B": "А–2, Б–1, В–3",
+            "C": "А–2, Б–1, В–3",
+            "D": "А–2, Б–3, В–1"
+        },
+        "correct_answer": "C",
+        "pic_path": "0fa14387-f435-4e04-b424-1bcbf5fee555.png",
+        "category": "ГГ-11 ЕГЭ 2024 ДЕМО",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "26395d56-d180-42f6-a33d-4ff6ab1af805",
+        "question": "quel est l'impact des navires de croisière sur le patrimoine architectural de Venise ?",
+        "options": {
+            "A": "Ils financent la restauration des bâtiments historiques.",
+            "B": "Ils n'ont aucun impact significatif sur le patrimoine architectural.",
+            "C": "Ils provoquent des vagues qui érodent les fondations des bâtiments, menaçant leur stabilité.",
+            "D": "Ils favorisent la modernisation des infrastructures portuaires sans affecter le patrimoine existant."
+        },
+        "correct_answer": "C",
+        "pic_path": "26395d56-d180-42f6-a33d-4ff6ab1af805.png",
+        "category": "BAC 2024 ",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d6f726df-f255-4a11-9a7a-7a512b0b0840",
+        "question": "Selon le Document 2, quelle mesure a été prise par l'administration municipale de Venise pour atténuer les effets négatifs du tourisme de masse ?",
+        "options": {
+            "A": "La construction de nouveaux hôtels en périphérie pour décentraliser l'afflux touristique.",
+            "B": "La mise en place de la campagne #EnjoyRespectVenezia accompagnée d'amendes pour les comportements inappropriés.",
+            "C": "La suppression des lignes de transport maritime pour réduire la pollution.",
+            "D": "L'interdiction totale des visites touristiques pendant les périodes de forte affluence."
+        },
+        "correct_answer": "B",
+        "pic_path": "d6f726df-f255-4a11-9a7a-7a512b0b0840.png",
+        "category": "BAC 2024 ",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "243d2222-cf1c-4a58-a5b4-298a9026ce2b",
+        "question": "Quelle est la principale source de tensions illustrée par la carte en mer de Chine méridionale ?\n",
+        "options": {
+            "A": "Les revendications territoriales chinoises sur des zones riches en ressources",
+            "B": "La piraterie maritime le long des côtes malaisiennes",
+            "C": "Le commerce international bloqué par la Chine",
+            "D": "La pêche illégale des navires européens dans la région"
+        },
+        "correct_answer": "A",
+        "pic_path": "243d2222-cf1c-4a58-a5b4-298a9026ce2b.png",
+        "category": "BAC 2024 ",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d1a74c56-9109-463e-83a4-b91ceaff578c",
+        "question": "Quel élément montre une volonté chinoise de contrôle accru de l’espace aérien dans la région ?",
+        "options": {
+            "A": "La protection des routes commerciales atlantiques",
+            "B": "L’équilibre des forces face à la Russie dans le Pacifique",
+            "C": "Le soutien aux puissances alliées et le contrôle des voies maritimes face à l’expansion chinoise",
+            "D": "Le contrôle de la migration illégale entre l’Asie du Sud et l’Amérique"
+        },
+        "correct_answer": "C",
+        "pic_path": "d1a74c56-9109-463e-83a4-b91ceaff578c.png",
+        "category": "BAC 2024 ",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "18ad8a82-5126-4945-bba8-6dc8dbce136a",
+        "question": "Quel est l'impact géopolitique de la transition énergétique sur les relations internationales de la France ?\n",
+        "options": {
+            "A": "Elle renforce la dépendance de la France aux énergies fossiles importées.",
+            "B": "Elle positionne la France comme un leader dans la lutte contre le changement climatique.",
+            "C": "Elle isole la France des négociations internationales sur le climat.",
+            "D": "Elle n'a aucun impact sur les relations internationales de la France."
+        },
+        "correct_answer": "B",
+        "pic_path": "18ad8a82-5126-4945-bba8-6dc8dbce136a.png",
+        "category": "BAC 2024 ",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f853385a-7ce3-4874-8b5d-37090f98c9df",
+        "question": "Quelle politique publique a contribué à la réduction des émissions de GES dans le secteur de l'industrie de l'énergie en France ?",
+        "options": {
+            "A": "L'augmentation de la production d'électricité à partir de charbon.",
+            "B": "Le développement du parc nucléaire et des énergies renouvelables.",
+            "C": "La suppression des taxes sur les carburants fossiles.",
+            "D": "La réduction des investissements dans les infrastructures énergétiques."
+        },
+        "correct_answer": "B",
+        "pic_path": "f853385a-7ce3-4874-8b5d-37090f98c9df.png",
+        "category": "BAC 2024 ",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "094bdf78-40d2-429b-8ab4-4132a7d82690",
+        "question": "Quel est l’objectif principal de l’exposition temporaire « La mine fait son cinéma » présentée au Centre historique minier de Lewarde ?",
+        "options": {
+            "A": "Présenter des films de fiction tournés dans les anciennes colonies françaises",
+            "B": "Mettre en valeur la mémoire ouvrière et la représentation des mines dans le cinéma",
+            "C": "Sensibiliser le public aux énergies renouvelables dans le bassin minier du Nord-Pas-de-Calais",
+            "D": "Promouvoir les techniques minières contemporaines au niveau européen"
+        },
+        "correct_answer": "B",
+        "pic_path": "094bdf78-40d2-429b-8ab4-4132a7d82690.png",
+        "category": "BAC 2023",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "d395c4c4-9987-4af4-8b9c-54407f3eb0a0",
+        "question": "Pourquoi peut-on dire que cette affiche s’inscrit dans une politique territoriale de valorisation patrimoniale post-industrielle ?\n",
+        "options": {
+            "A": "Elle promeut l’exportation de machines minières vers les pays en développement",
+            "B": "Elle célèbre le retour de l’exploitation minière dans la région",
+            "C": "Elle transforme un passé industriel en atout culturel et touristique",
+            "D": "Elle appelle à une mobilisation ouvrière contre les fermetures d’usine"
+        },
+        "correct_answer": "C",
+        "pic_path": "d395c4c4-9987-4af4-8b9c-54407f3eb0a0.png",
+        "category": "BAC 2023",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "a1730c35-00cb-4ff8-9330-ca428be6892b",
+        "question": "Quel est le principal atout géographique mis en avant dans cette campagne de communication ?\n",
+        "options": {
+            "A": "La proximité de l’autoroute A6 et de la ligne TGV Paris-Lyon",
+            "B": "L’environnement forestier naturel de la Creuse et la présence du parc animalier",
+            "C": "L’existence d’un port fluvial et d’un réseau industriel local",
+            "D": "La situation transfrontalière favorable aux échanges européens"
+        },
+        "correct_answer": "B",
+        "pic_path": "a1730c35-00cb-4ff8-9330-ca428be6892b.png",
+        "category": "BAC 2023",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "c8bb7acc-402c-49e1-8ccf-c60b1cbc0050",
+        "question": "Cette initiative de l’agglomération de Guéret s’inscrit dans une logique de :\n",
+        "options": {
+            "A": "Réindustrialisation rurale par les énergies fossiles",
+            "B": "Patrimonialisation agricole des anciens corps de ferme",
+            "C": "Diversification économique par le tourisme vert et le sport nature",
+            "D": "Transition technologique vers une économie exclusivement numérique"
+        },
+        "correct_answer": "C",
+        "pic_path": "c8bb7acc-402c-49e1-8ccf-c60b1cbc0050.png",
+        "category": "BAC 2023",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e88bc799-8a5b-44b6-8d15-2765a3a0bd96",
+        "question": "Comment la politique de prévention des incendies actuelle s’inscrit-elle dans l’évolution historique de la gestion forestière en France, telle que décrite dans le Document",
+        "options": {
+            "A": "Elle marque une rupture totale avec les politiques passées, en se concentrant uniquement sur la répression des incendies",
+            "B": "Elle prolonge les initiatives du XIXe siècle visant à protéger les forêts contre les catastrophes naturelles, en intégrant des mesures de prévention",
+            "C": "Elle se limite à des actions locales sans coordination nationale",
+            "D": "Elle néglige les enseignements du passé et n’intègre pas les communautés locales"
+        },
+        "correct_answer": "B",
+        "pic_path": "e88bc799-8a5b-44b6-8d15-2765a3a0bd96.png",
+        "category": "BAC 2023",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e659914d-2a36-4391-aa3a-89163453e8ea",
+        "question": "Comment la carte des zones à risque incendie (selon les documents du sujet) illustre-t-elle les inégalités spatiales face aux catastrophes naturelles ?\n",
+        "options": {
+            "A": "Tous les départements français présentent les mêmes niveaux de risque",
+            "B": "Les zones les plus urbanisées sont systématiquement les plus exposées",
+            "C": "Le Sud-Est méditerranéen concentre les zones à risque élevé, traduisant une vulnérabilité géographique spécifique",
+            "D": "Les zones forestières d’Île-de-France sont les plus menacées du pays"
+        },
+        "correct_answer": "C",
+        "pic_path": "e659914d-2a36-4391-aa3a-89163453e8ea.png",
+        "category": "BAC 2023",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0dba7a6b-481e-407f-9bab-26029f647dd8",
+        "question": "Comment le choix des villes comme Shanghai, Abu Dhabi ou Atlanta reflète-t-il les priorités de la diplomatie culturelle française ?\n",
+        "options": {
+            "A": "Elles représentent des anciennes colonies françaises.",
+            "B": "Elles sont toutes situées dans des pays francophones.",
+            "C": "Ce sont des métropoles émergentes ou influentes dans leur région, stratégiques pour toucher un nouveau public international.",
+            "D": "Ce sont des villes partenaires de l’Union européenne."
+        },
+        "correct_answer": "C",
+        "pic_path": "0dba7a6b-481e-407f-9bab-26029f647dd8.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f9926c70-6049-4384-978b-bda0833ec078",
+        "question": "Quel élément de géographie numérique explique la propagation aussi rapide de WannaCry ?\n",
+        "options": {
+            "A": "L’usage exclusif de réseaux 5G dans les pays touchés.",
+            "B": "L’interdépendance globale des systèmes informatiques connectés.",
+            "C": "Le faible niveau d’alphabétisation numérique dans le monde.",
+            "D": "Le piratage de satellites de communication."
+        },
+        "correct_answer": "B",
+        "pic_path": "f9926c70-6049-4384-978b-bda0833ec078.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "eafc5192-7b74-4740-8fe6-c1bdd7430894",
+        "question": "Quel facteur géographique a facilité la mobilisation communautaire autour des gacaca ?\n",
+        "options": {
+            "A": "La faible densité de population rwandaise.",
+            "B": "Le caractère dispersé des communautés en milieu désertique.",
+            "C": "La proximité géographique entre auteurs, témoins et victimes dans des villages denses.",
+            "D": "L’exode rural massif depuis les années 1980."
+        },
+        "correct_answer": "C",
+        "pic_path": "eafc5192-7b74-4740-8fe6-c1bdd7430894.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "ef245062-ef73-408f-b48e-d4509fe87d78",
+        "question": "Quel type d’espace est le plus vulnérable face à l’accélération du réchauffement montrée sur le graphique ?\n",
+        "options": {
+            "A": "Les zones équatoriales densément boisées.",
+            "B": "Les mégapoles littorales.",
+            "C": "Les régions arides et semi-arides continentales.",
+            "D": "Les deltas des fleuves tropicaux"
+        },
+        "correct_answer": "C",
+        "pic_path": "ef245062-ef73-408f-b48e-d4509fe87d78.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "8303aee2-0789-44a7-abaf-aabd815b15d8",
+        "question": "Quelle caractéristique géographique du Rwanda a facilité la mise en œuvre de ces juridictions locales ?\n",
+        "options": {
+            "A": "La forte urbanisation du pays.",
+            "B": "La faible densité de population dans les montagnes.",
+            "C": "La dispersion de villages dans un territoire très densément peuplé.",
+            "D": "La présence de grandes métropoles côtières."
+        },
+        "correct_answer": "C",
+        "pic_path": "8303aee2-0789-44a7-abaf-aabd815b15d8.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "5ba650b0-e222-402e-9576-e532b145c8c8",
+        "question": "Que révèle cette couverture de guide sur l’évolution des représentations spatiales de la nature aux États-Unis ?\n",
+        "options": {
+            "A": "La nature y est représentée comme hostile, inaccessible et dangereuse.",
+            "B": "Elle est montrée comme un objet de consommation touristique exclusivement.",
+            "C": "Elle est idéalisée comme un refuge hors de la civilisation, à valoriser et protéger.",
+            "D": "Elle est liée à l’expansion minière et à l’exploitation industrielle."
+        },
+        "correct_answer": "C",
+        "pic_path": "5ba650b0-e222-402e-9576-e532b145c8c8.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "4169444b-33ee-4972-b72d-2701fd89ee0f",
+        "question": "Quel agent géomorphologique est à l'origine de la formation principale visible dans le paysage du Yosemite ?\n",
+        "options": {
+            "A": "L’activité volcanique récente",
+            "B": "L’érosion éolienne intense",
+            "C": "Le recul glaciaire et l’érosion glaciaire",
+            "D": "La sédimentation marine tertiaire"
+        },
+        "correct_answer": "C",
+        "pic_path": "4169444b-33ee-4972-b72d-2701fd89ee0f.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "eb99c157-9100-470d-88f4-1c2839f81ffa",
+        "question": "Quel type de roche domine dans la composition géologique des formations comme El Capitan visibles sur la photo ?\n",
+        "options": {
+            "A": "Basalte",
+            "B": "Granite",
+            "C": "Calcaire",
+            "D": "Schiste"
+        },
+        "correct_answer": "B",
+        "pic_path": "eb99c157-9100-470d-88f4-1c2839f81ffa.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "4ab5e748-961f-45c7-a7cf-fd7f543d756b",
+        "question": "La bataille représentée sur l’image a eu lieu sur les Hautes Terres moraves (Moravie). Quelle caractéristique géographique de cette région a probablement influencé le déroulement de la bataille ?\n",
+        "options": {
+            "A": "La présence de vastes plaines côtières favorables aux assauts navals",
+            "B": "Un relief vallonné propice aux manœuvres militaires et à la dissimulation",
+            "C": "Un climat désertique qui limite les mouvements",
+            "D": "Un réseau de forêts denses rendant les combats impossibles"
+        },
+        "correct_answer": "B",
+        "pic_path": "4ab5e748-961f-45c7-a7cf-fd7f543d756b.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "200f5d5d-d3a8-4547-9561-db6a8ff95167",
+        "question": "Quel type de climat domine dans les régions où les conflits des années 1990 ont eu lieu ?\n",
+        "options": {
+            "A": "Climat désertique chaud",
+            "B": "Climat polaire",
+            "C": "Climat continental humide et climat méditerranéen",
+            "D": "Climat équatorial"
+        },
+        "correct_answer": "C",
+        "pic_path": "200f5d5d-d3a8-4547-9561-db6a8ff95167.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "64d8475a-9e2e-444b-9336-21d0d38fdbcf",
+        "question": "5. Quelle région a connu un peuplement tardif selon l’axe chronologique du bas du graphique ?",
+        "options": {
+            "A": "Le Proche-Orient",
+            "B": "L’Australie",
+            "C": "L’Amérique",
+            "D": "L’Afrique du Nord"
+        },
+        "correct_answer": "C",
+        "pic_path": "64d8475a-9e2e-444b-9336-21d0d38fdbcf.png",
+        "category": "BAC 2022",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "72a994f4-8a13-4ebe-bf9d-6fbc3c4a00b9",
+        "question": "2. Quel défi géographique majeur la construction de cette route devait-elle surmonter ?",
+        "options": {
+            "A": "Le franchissement du fleuve Mississippi",
+            "B": "Le permafrost permanent des Grandes Plaines",
+            "C": "Le relief escarpé des montagnes Rocheuses et les conditions climatiques extrêmes",
+            "D": "Les tempêtes de sable caractéristiques du Midwest américain"
+        },
+        "correct_answer": "C",
+        "pic_path": "72a994f4-8a13-4ebe-bf9d-6fbc3c4a00b9.png",
+        "category": "BAC 2021",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "0a3178bc-224f-47be-b76f-a7433e711e29",
+        "question": "Quelle est la principale cause du phénomène illustré sur la couverture ?",
+        "options": {
+            "A": "Une surexploitation agricole dans les zones rurales allemandes",
+            "B": "Des émissions industrielles de dioxyde de soufre et d'oxydes d’azote",
+            "C": "Un changement climatique dû à l’effet El Niño",
+            "D": "Une déforestation naturelle liée à l’évolution biologique des arbres"
+        },
+        "correct_answer": "B",
+        "pic_path": "0a3178bc-224f-47be-b76f-a7433e711e29.png",
+        "category": "BAC 2021",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "f29bd7e5-7f04-4adb-9b59-f43b6bca402a",
+        "question": "Quel est le principal enjeu géographique illustré par la construction de la Tour Triangle à Paris ?",
+        "options": {
+            "A": "La prolifération de zones franches à haute densité",
+            "B": "Le développement de logements sociaux en périphérie immédiate",
+            "C": "La rupture avec la tradition de faible hauteur du tissu urbain parisien",
+            "D": "L’abandon progressif du modèle radial de développement de la capitale"
+        },
+        "correct_answer": "C",
+        "pic_path": "f29bd7e5-7f04-4adb-9b59-f43b6bca402a.png",
+        "category": "BAC 2021",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "92b9a5d6-c86c-4eef-9c58-4d4d6d6b7d7c",
+        "question": " La construction de la Tour Triangle peut être interprétée comme le symptôme de quel processus métropolitain ?",
+        "options": {
+            "A": "Une réindustrialisation ciblée du sud parisien",
+            "B": "Une recomposition fonctionnelle axée sur la tertiarisation verticale",
+            "C": "Une suburbanisation fondée sur le télétravail et les mobilités douces",
+            "D": "Une fragmentation spatiale de type post-moderne"
+        },
+        "correct_answer": "B",
+        "pic_path": "92b9a5d6-c86c-4eef-9c58-4d4d6d6b7d7c.png",
+        "category": "BAC 2021",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "7e50af72-7900-4ce7-bb0c-dff0ccfd5589",
+        "question": "Quelle lecture géographique peut-on faire de l’implantation des réserves indiennes sur la carte ?",
+        "options": {
+            "A": "Elles sont situées sur des axes denses de population urbaine",
+            "B": "Elles sont localisées en périphérie immédiate des centres pétroliers",
+            "C": "Elles coïncident avec les anciennes lignes de chemin de fer intercontinentales",
+            "D": "Elles se situent principalement dans des espaces à faible densité humaine et économique"
+        },
+        "correct_answer": "D",
+        "pic_path": "7e50af72-7900-4ce7-bb0c-dff0ccfd5589.png",
+        "category": "BAC 2021",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "13f4efe2-18ae-45c0-9617-09235fc23b73",
+        "question": "Quelle contrainte majeure de gestion du territoire peut-on déduire de la carte ?",
+        "options": {
+            "A": "La difficulté d’accès due à l’absence totale d’entrées routières sur les côtés nord et est",
+            "B": "La surfréquentation de certains sites emblématiques, comme Old Faithful, situés près des axes routiers",
+            "C": "La concentration de campings uniquement dans les zones de haute altitude",
+            "D": "L’extension des zones agricoles autour du parc jusqu’aux zones protégées"
+        },
+        "correct_answer": "B",
+        "pic_path": "13f4efe2-18ae-45c0-9617-09235fc23b73.png",
+        "category": "BAC 2021",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "bf3b073d-7752-45fe-83da-68e663d40277",
+        "question": "Quelle problématique géographique est accentuée par la destruction du patrimoine à Palmyre ?",
+        "options": {
+            "A": "La concentration des mégapoles dans les régions côtières",
+            "B": "La disparition des centres de production agricole traditionnels",
+            "C": "L’empreinte destructrice de l’homme",
+            "D": "Le manque d’accès à l’eau dans les zones montagneuses"
+        },
+        "correct_answer": "C",
+        "pic_path": "bf3b073d-7752-45fe-83da-68e663d40277.png",
+        "category": "BAC 2021",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    },
+    {
+        "id": "e5d5e63f-b0da-42a3-90fc-231e1b8f7f0a",
+        "question": "Quelle forme de zonage fonctionnel observe-t-on à travers cette carte ?",
+        "options": {
+            "A": "Des zones résidentielles au nord, agricoles au sud",
+            "B": "Un zonage concentrique autour du mont Washburn",
+            "C": "Un zonage en couronne, alternant entre zones protégées, touristiques et à risques naturels",
+            "D": "Un zonage anarchique, reflet d’un développement touristique non maîtrisé"
+        },
+        "correct_answer": "C",
+        "pic_path": "e5d5e63f-b0da-42a3-90fc-231e1b8f7f0a.png",
+        "category": "BAC 2021",
+        "final_status": "原始题目(需要图片)",
+        "iteration": 0,
+        "owner": "gjh",
+        "image_necessity": "需要",
+        "is_original": true
+    }
+]
