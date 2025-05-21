@@ -54,7 +54,7 @@ The input JSON file should contain question data in the following format:
 ### Command Line Arguments
 When using this tool, various options can be configured through command line arguments:
 ```bash
-python main.py --input input_file.json --output output_file.json --use-gpt --max-distance 50 --accuracy-csv accuracy_stats.csv --open-questions open_questions_list.jsonl
+python eval/json_answer_correction.py --input input_file.json --output output_file.json --use-gpt --max-distance 50 --accuracy-csv accuracy_stats.csv --open-questions open_questions_list.jsonl
 ```
 
 Main parameters:
@@ -68,25 +68,25 @@ Main parameters:
 ### Multiple-Choice Questions Evaluation Example
 Assuming we have a multiple-choice question dataset file `choice_questions.json`, use GPT to evaluate and save the results:
 ```bash
-python main.py --input choice_questions.json --output choice_questions_eval.json --use-gpt --accuracy-csv choice_accuracy.csv
+python eval/json_answer_correction.py --input choice_questions.json --output choice_questions_eval.json --use-gpt --accuracy-csv choice_accuracy.csv
 ```
 
 ### Open-Ended Questions Evaluation Example
 For open-ended questions, you need to provide a JSONL file specifying the question IDs to evaluate:
 ```bash
-python main.py --input open_questions.json --open-questions open_question_ids.jsonl --output open_questions_eval.json --use-gpt --accuracy-csv open_accuracy.csv
+python eval/json_answer_correction.py --input open_questions.json --open-questions open_question_ids.jsonl --output data/data-open.jsonl --use-gpt --accuracy-csv open_accuracy.csv
 ```
 
 ### Batch Processing Multiple Model Results
 If you need to evaluate results from multiple models simultaneously, you can use:
 ```bash
-python main.py --input model1_results.json model2_results.json --output model1_eval.json model2_eval.json --use-gpt --accuracy-csv all_models_accuracy.csv
+python eval/json_answer_correction.py --input model1_results.json model2_results.json --output model1_eval.json model2_eval.json --use-gpt --accuracy-csv all_models_accuracy.csv
 ```
 
 ### Regular Expression Evaluation Mode
 If you don't want to use GPT for evaluation, you can use the regex-based evaluation mode:
 ```bash
-python main.py --input questions.json --output questions_eval.json --max-distance 30
+python eval/json_answer_correction.py --input questions.json --output questions_eval.json --max-distance 30
 ```
 In this mode, the tool will look for answer options in the last 30 characters of the model output.
 
