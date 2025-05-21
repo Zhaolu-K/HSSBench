@@ -7,7 +7,9 @@ Current benchmarks for evaluating MLLMs primarily emphasize general knowledge an
 
 ## 📊 Model Performance
 We test the  model performance under 2 scenarios: 
+
 (1) Directly (Dr.) **OR** CoT(Ct.) answer;
+
 (2) Multi-choice(C.) **OR** Open (O.) question.
 ![Overview](assets/scores.png)
 ### Directly Performance
