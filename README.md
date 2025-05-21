@@ -14,7 +14,7 @@ We test the  model performance under 2 scenarios: (1)Directly OR CoT answer, and
 
 ### Directly Performance
 
-## Model Evaluation
+## 🛠️ Model Evaluation
 
 ### Environment
 First, you need to install the necessary dependencies:
